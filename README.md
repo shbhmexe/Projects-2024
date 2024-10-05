@@ -23,5 +23,7 @@ Feel free to explore my repositories to check out these projects and more!
 - **Node.js**
 - **Express**
 - **MongoDB**
+- **React.js**
+- **Next.js**
 
 Stay tuned as I continue to expand my portfolio with more exciting projects! ✨
