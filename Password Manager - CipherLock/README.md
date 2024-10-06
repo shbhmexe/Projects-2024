@@ -56,10 +56,10 @@ To set up CipherLock on your local machine:
 
 6.Configure your database in the .env file.
 
-👨‍💻 Contribution Guidelines
+## 👨‍💻 Contribution Guidelines
 We welcome contributions! Please fork the repository, make your changes, and submit a pull request.
 
-#📄 License#
+## 📄 License
 This project is licensed under the MIT License.
 
 Connect with the Developer:
