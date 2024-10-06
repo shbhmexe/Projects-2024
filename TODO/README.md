@@ -39,6 +39,17 @@
 
 ![image](https://github.com/user-attachments/assets/bb4e02f9-19e2-4a54-8ade-ef3d27e4d4dc)
 
+## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/cadbda2c-df19-4242-9626-e847cecaa212)
+![image](https://github.com/user-attachments/assets/f7b822b2-fd51-4d83-8ce5-ba3b308a0e87)
+![image](https://github.com/user-attachments/assets/0753c039-e040-4caf-98bf-2524ccc5d302)
+![image](https://github.com/user-attachments/assets/26681f70-e09c-4ad6-8aa7-bd9eb7c00470)
+
+
+
+
+
+
 
 ## 📚 Learning Outcomes
 React Component Structure: Learn how to break a project into reusable and maintainable components.
@@ -61,11 +72,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 🌟 Show Your Support
 If you like this project, consider giving it a ⭐ on GitHub and sharing it with others!
-
-##                                                                            Screenshots
-
-
-![image](https://github.com/user-attachments/assets/6ba9d612-7ccf-4c1b-8228-3521a9fc5de2)
 
 # Happy coding! ✨
 note :- Install npm package first for running the project
