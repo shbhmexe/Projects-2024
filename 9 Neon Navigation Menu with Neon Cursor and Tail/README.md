@@ -10,9 +10,14 @@ JavaScript: Adds interactivity for the cursor tail effect.
 Neon glowing navigation menu.
 Custom cursor with a tail animation that follows user movement.
 Fully responsive design.
+
 ## 📦 How to Run
 Clone the repository.
 Open index.html in your browser.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/f47e864d-91ef-4dba-9949-63ee761dbe95)
+
 
 ## 🛠️ Installation
 No special installations required! Just download or clone the project.
