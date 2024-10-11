@@ -16,7 +16,7 @@ Feel free to explore my repositories to check out these projects and more!
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack.
 - **HTML**
 - **CSS / Tailwind CSS**
 - **JavaScript**
