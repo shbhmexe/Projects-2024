@@ -12,8 +12,8 @@ Custom cursor with a tail animation that follows user movement.
 Fully responsive design.
 
 ## 📦 How to Run
-Clone the repository.
-Open index.html in your browser.
+- **Clone the repository.**
+- **Open index.html in your browser.**
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/f47e864d-91ef-4dba-9949-63ee761dbe95)
