@@ -2,9 +2,9 @@
 A dynamic, vibrant neon-themed navigation menu featuring a glowing cursor with a trailing effect.
 
 ## 💻 Tech Stack
-HTML: Provides the structure for the menu.
-CSS: Implements neon effects with box-shadow and keyframes.
-JavaScript: Adds interactivity for the cursor tail effect.
+- **HTML: Provides the structure for the menu.**
+- **CSS: Implements neon effects with box-shadow and keyframes.**
+- **JavaScript: Adds interactivity for the cursor tail effect.**
 
 ## ✨ Features
 Neon glowing navigation menu.
