@@ -1,5 +1,5 @@
 ## 🌟 Neon Navigation Menu with Neon Cursor and Tail
-A dynamic, vibrant neon-themed navigation menu featuring a glowing cursor with a trailing effect.
+- **A dynamic, vibrant neon-themed navigation menu featuring a glowing cursor with a trailing effect.**
 
 ## 💻 Tech Stack
 - **HTML: Provides the structure for the menu.**
@@ -7,9 +7,9 @@ A dynamic, vibrant neon-themed navigation menu featuring a glowing cursor with a
 - **JavaScript: Adds interactivity for the cursor tail effect.**
 
 ## ✨ Features
-Neon glowing navigation menu.
-Custom cursor with a tail animation that follows user movement.
-Fully responsive design.
+- **Neon glowing navigation menu.**
+- **Custom cursor with a tail animation that follows user movement.**
+- **Fully responsive design.**
 
 ## 📦 How to Run
 - **Clone the repository.**
@@ -20,11 +20,11 @@ Fully responsive design.
 
 
 ## 🛠️ Installation
-No special installations required! Just download or clone the project.
+- **No special installations required! Just download or clone the project.**
 
 ## 🌈 Future Improvements
-Adding additional page animations.
-Enhancing the cursor tail with varying neon colors.
+- **Adding additional page animations.**
+- **Enhancing the cursor tail with varying neon colors.**
 
 ## 👨‍💻 Author
-Developed by Shubham Shukla.
+Developed by **Shubham Shukla.**
