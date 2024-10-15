@@ -15,7 +15,7 @@
 - **Clone the repository.**
 - **Open index.html in your browser.**
 
-## Screenshots
+## 📲 Screenshots
 ![image](https://github.com/user-attachments/assets/f47e864d-91ef-4dba-9949-63ee761dbe95)
 
 
