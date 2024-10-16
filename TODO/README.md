@@ -46,11 +46,6 @@
 ![image](https://github.com/user-attachments/assets/26681f70-e09c-4ad6-8aa7-bd9eb7c00470)
 
 
-
-
-
-
-
 ## 📚 Learning Outcomes
 React Component Structure: Learn how to break a project into reusable and maintainable components.
 State Management in React: Handle task management with React's useState and useEffect hooks.
@@ -64,11 +59,11 @@ User Authentication: Allow users to sign in and save their tasks in a database (
 Dark Mode: Implement a dark/light mode toggle for better user experience.
 Drag & Drop: Add drag-and-drop functionality to reorder tasks.
 
-## 🧑‍💻 Author
-This project was created by Shubham Shukla. Feel free to connect with me on LinkedIn.
-
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 👨‍💻 Author
+This project was created by **Shubham Shukla**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
 
 🌟 Show Your Support
 If you like this project, consider giving it a ⭐ on GitHub and sharing it with others!
