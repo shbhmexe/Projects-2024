@@ -27,4 +27,4 @@
 - **Enhancing the cursor tail with varying neon colors.**
 
 ## 👨‍💻 Author
-Developed by **Shubham Shukla.**
+This project was created by **Shubham Shukla**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
