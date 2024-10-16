@@ -2,8 +2,8 @@
 This project is a Netflix UI Clone, built with HTML and CSS, mimicking the front-end design of Netflix. The clone is focused on replicating the aesthetics and responsiveness of the original Netflix interface.
 
 ## 💻 Tech Stack
-HTML: Structure of the UI.
-CSS: Styling, layout, and responsiveness.
+- **HTML: Structure of the UI.**
+- **CSS: Styling, layout, and responsiveness.**
 
 ## ✨ Features
 Responsive Layout: Adapts to different screen sizes, from mobile to desktop.
@@ -16,8 +16,8 @@ Hover Effects: Interactive movie card hover effects.
 
 
 ## 📦 How to Run
-Clone the repository.
-Open the index.html file in your browser.
+- **Clone the repository.**
+- **Open the index.html file in your browser.**
 
 ## 👨‍💻 Author
-Developed by Shubham Shukla.
+This project was created by **Shubham Shukla**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
