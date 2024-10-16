@@ -40,9 +40,8 @@ A fully functional **Spotify Clone** built with **HTML**, **CSS**, and **JavaScr
 ![image](https://github.com/user-attachments/assets/7ff2d35d-3445-43bf-a8be-a8e954e6bd50)
 
 
-
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Author
-This project was created by Shubham Shukla. Connect with me on LinkedIn.
+This project was created by **Shubham Shukla**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
