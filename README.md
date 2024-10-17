@@ -1,6 +1,6 @@
 # 🚀 **WEB DEVELOPMENT PROJECTS - 2024**
 
-In **2024**, I’ve focused on enhancing my web development skills by working on several projects, all of which are available in my **GitHub repositories**. These include:
+In **2024**, I’ve focused on enhancing my **Web Development** skills by working on several projects, all of which are available in my **GitHub repositories**. These include:
 
 - **UI Clones**
 - **Full-Stack Applications**
