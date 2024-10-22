@@ -12,7 +12,7 @@ One of my key projects is a **Twitter UI Clone**, built using **HTML** and **Tai
 
 I’ve also developed several **full-stack projects**, integrating both **front-end** and **back-end** technologies. These hands-on experiences have been crucial in improving my skills in building **clean**, **efficient**, and **user-friendly** web applications.
 
-**Feel free to explore my repositories to check out these projects and more!**
+**Feel free to explore my repositories to check out these projects and more !**
 
 ---
 
