@@ -26,4 +26,4 @@ I’ve also developed several **full-stack projects**, integrating both **front-
 - **React.js**
 - **Next.js**
 
-Stay tuned as I continue to expand my portfolio with more exciting projects! ✨
+**✨ Stay tuned as I continue to expand my portfolio with more exciting projects! ✨**
