@@ -36,9 +36,9 @@ Responsive design techniques using Tailwind's grid, flexbox, and responsive util
 Best practices for structuring HTML components for reusability.
 
 ## 💡 Future Improvements
-Interactive Features: Adding JavaScript functionality like tweet posting, likes, and more.
+- **Interactive Features: Adding JavaScript functionality like tweet posting, likes, and more.
 Dark Mode: Implementing a toggle for switching between light and dark themes.
-User Authentication: Integrating a mock login system.
+User Authentication: Integrating a mock login system.**
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
