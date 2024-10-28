@@ -41,8 +41,7 @@ Dark Mode: Implementing a toggle for switching between light and dark themes.
 User Authentication: Integrating a mock login system.**
 
 ## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-Just copy and paste this into your `README.md` file for your **Twitter UI Clone** project!
+- **This project is licensed under the MIT License - see the LICENSE file for details.**
 
 ## 👨‍💻 Author
 This project was created by **Shubham Shukla**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
