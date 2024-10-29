@@ -74,8 +74,9 @@ To get a copy of the project up and running on your local machine, follow these 
 ![6](https://github.com/user-attachments/assets/ae2ac2b7-a833-4ec5-a6c0-101ae9d19f63)
 
 - ## **Mobile View**
-![1](https://github.com/user-attachments/assets/88d0fd86-f1ed-487a-92a2-287be742b9d2)
-![2](https://github.com/user-attachments/assets/ecf1f5da-3638-4cbf-8d75-cb7356aa3a53)
+![1 (2)](https://github.com/user-attachments/assets/9a14dae8-ce2a-468f-9dbc-f0d33be204b1)  ![3](https://github.com/user-attachments/assets/2abbcc3c-f85b-460f-8797-ac9409ff6ec5)
+
+
 
 ## 🤝 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
