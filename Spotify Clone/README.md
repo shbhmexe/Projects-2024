@@ -39,6 +39,9 @@ A fully functional **Spotify Clone** built with **HTML**, **CSS**, and **JavaScr
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/7ff2d35d-3445-43bf-a8be-a8e954e6bd50)
 
+##  🐙💻 Project Link
+- [LINK](https://spotifycloneuiio.netlify.app/)
+
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
