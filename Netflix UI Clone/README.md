@@ -10,6 +10,10 @@ Responsive Layout: Adapts to different screen sizes, from mobile to desktop.
 Netflix-like Grid: Movie card carousel for a clean and modern look.
 Hover Effects: Interactive movie card hover effects.
 
+##  🐙💻 Project Link
+- [LINK](https://netflicxcloneuiio.netlify.app/)
+
+
 ## 🖼️ Screenshot
 ![image](https://github.com/user-attachments/assets/7d171071-df24-41f0-8e77-c919d40c9aea)
 ![image](https://github.com/user-attachments/assets/5db8cf91-7feb-48f3-b6d1-f5462388b2ba)
