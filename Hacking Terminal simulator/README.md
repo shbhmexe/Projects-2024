@@ -23,7 +23,6 @@ A fun and interactive **Hacking Terminal Simulator** built using **HTML**, **CSS
 
 ##  🐙💻 Project Link
 - [LINK](https://hackingterminaluiio.netlify.app/)
-)
 
 
 ## 🚀 How to Run
