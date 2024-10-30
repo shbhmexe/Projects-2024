@@ -18,6 +18,9 @@
 ## 📲 Screenshots
 ![image](https://github.com/user-attachments/assets/f47e864d-91ef-4dba-9949-63ee761dbe95)
 
+##  🐙💻 Project Link
+- [LINK](https://neonnegivate.netlify.app/)
+
 
 ## 🛠️ Installation
 - **No special installations required! Just download or clone the project.**
