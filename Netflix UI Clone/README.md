@@ -11,7 +11,7 @@ Netflix-like Grid: Movie card carousel for a clean and modern look.
 Hover Effects: Interactive movie card hover effects.
 
 ##  🐙💻 Project Link
-- [LINK](https://netflicxcloneuiio.netlify.app/)
+- [LINK](https://theonlynetflicclone.netlify.app/)
 
 
 ## 🖼️ Screenshot
