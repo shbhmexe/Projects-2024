@@ -1,4 +1,4 @@
-# 🐦 Twitter UI Clone
+# X Twitter UI Clone
 
 A responsive **Twitter UI Clone** built using **HTML** and **Tailwind CSS**. This project replicates the front-end layout of the Twitter platform, demonstrating how to structure and style a web page using modern web technologies.
 
@@ -18,6 +18,8 @@ A responsive **Twitter UI Clone** built using **HTML** and **Tailwind CSS**. Thi
 ![image](https://github.com/user-attachments/assets/3f886891-5dc2-40a2-a23e-55ba180efd0c)
 ![image](https://github.com/user-attachments/assets/25584041-4b01-42a1-9541-a6108e2dc1bf)
 
+##  🐙💻 Project Link
+- [LINK](https://xtwitteruiio.netlify.app/)
 
 ## 🛠️ How to Run the Project
 
