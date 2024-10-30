@@ -22,8 +22,7 @@ A fun and interactive **Hacking Terminal Simulator** built using **HTML**, **CSS
 ![image](https://github.com/user-attachments/assets/e9643add-bc83-45c4-88fb-c5a1d8efdc67)
 
 ##  🐙💻 Project Link
-- [LINK](##  🐙💻 Project Link
-- [LINK](https://learningmanagementsystemlms.netlify.app/)
+- [LINK](https://hackingterminaluiio.netlify.app/)
 )
 
 
