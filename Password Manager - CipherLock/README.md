@@ -10,7 +10,7 @@ Welcome to **CipherLock**, a simple, secure, and efficient password manager that
 - **Username & URL Entry:** Easily associate your usernames with the websites they belong to.
 - **Responsive Design:** Built with **Tailwind CSS** for a clean and modern user interface, optimized for various devices.
 - **Eye Icon for Password Visibility:** Toggle between viewing and hiding your password.
-- **Data Storage:** Passwords stored using **MongoDB** to ensure your data is securely kept.
+- **Data Storage:** Passwords stored using **LOCAL STORAGE** to ensure your data is securely kept.
 
 ## 🔧 Tech Stack
 
