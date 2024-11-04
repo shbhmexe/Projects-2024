@@ -38,9 +38,27 @@ Welcome to **CipherLock**, a simple, secure, and efficient password manager that
    - Passwords are stored securely in a MongoDB database with encryption.
 
 ## 📝 Installation Instructions
-- **To set up CipherLock on your local machine:**
+ **To set up CipherLock on your local machine:**
 
-![image](https://github.com/user-attachments/assets/76a6b79d-a331-4532-b9bc-2a07ea37a9d9)
+- **Clone the repository:**
+~~~
+git clone https://github.com/yourusername/cipherlock.git
+cd cipherlock
+~~~
+
+- **Install dependencies:**
+~~~
+npm install
+~~~
+
+- **Start the application:**
+~~~
+npm start
+~~~
+
+- **Ensure MongoDB is installed and running.**
+
+- **Configure your database in the .env file:**
 
 
 ## 👨‍💻 Contribution Guidelines
