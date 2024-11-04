@@ -35,6 +35,7 @@
    ```bash
    git clone https://github.com/your-username/taskflow-todo-app.git
    cd taskflow-todo-app
+   ```
 ![image](https://github.com/user-attachments/assets/51d049a8-8372-438b-92fb-d74c946f2123)
 
 ![image](https://github.com/user-attachments/assets/bb4e02f9-19e2-4a54-8ade-ef3d27e4d4dc)
