@@ -8,7 +8,7 @@ In **2024**, I’ve focused on enhancing my **Web Development** skills by workin
 - **Back-End Projects**
 
 
-Here's an enhanced paragraph with the deployment link added seamlessly:
+Here's an enhanced paragraph with the deployment link added seamlessly :
 
 🔑 Key Project
 One of my key projects is a Twitter UI Clone, built using HTML and Tailwind CSS. This project helped me deepen my understanding of responsive design and front-end development principles. You can explore the fully deployed project in inside the every project to see it in action.
