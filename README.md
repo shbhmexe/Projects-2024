@@ -17,8 +17,6 @@ I’ve also developed several **full-stack projects**, integrating both **front-
 
 **Feel free to explore my repositories to check out these projects and more !**
 
----
-
 ## 💻 Tech Stacks
 - **HTML**
 - **CSS / Tailwind CSS**
