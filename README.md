@@ -27,4 +27,10 @@ I’ve also developed several **full-stack projects**, integrating both **front-
 - **React.js**
 - **Next.js**
 
+## 👨‍💻 Author
+This project was created by **Shubham Shukla**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
+
+## 📝 License
+This project is open source and available under the [MIT License](LICENSE).
+
 **✨ Stay tuned as I continue to expand my portfolio with more exciting projects! ✨**
