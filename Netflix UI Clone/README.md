@@ -23,5 +23,9 @@ Hover Effects: Interactive movie card hover effects.
 - **Clone the repository.**
 - **Open the index.html file in your browser.**
 
+## 📝 License
+This project is open source and available under the [MIT License](LICENSE).
+
+
 ## 👨‍💻 Author
 This project was created by **Shubham Shukla**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
