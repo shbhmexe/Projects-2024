@@ -103,6 +103,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## 📝 License
 This project is open source and available under the [MIT License](LICENSE).
 
+## 👨‍💻 Author
+This project was created by **Shubham Shukla**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
 
 
 
