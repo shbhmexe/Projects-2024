@@ -13,7 +13,7 @@
 
 ## 📦 How to Run
 - **Clone the repository.**
-- **Open index.html in your browser.**
+- **Open the index.html file in your browser.**
 
 ## 📲 Screenshots
 ![image](https://github.com/user-attachments/assets/f47e864d-91ef-4dba-9949-63ee761dbe95)
