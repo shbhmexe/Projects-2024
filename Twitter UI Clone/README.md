@@ -26,9 +26,16 @@ A responsive **Twitter UI Clone** built using **HTML** and **Tailwind CSS**. Thi
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/twitter-ui-clone.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd twitter-ui-clone
+   ```
+3. Open the index.html file in your preferred web browser:
+   ```
+   open index.html
+   ```   
    
-
-![image](https://github.com/user-attachments/assets/321e08ee-72bb-4907-b6cb-ce876d879628)
 
 ## 📚 Learning Outcomes
 - **By building this project, you'll learn:**
