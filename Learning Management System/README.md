@@ -57,9 +57,9 @@ To get a copy of the project up and running on your local machine, follow these 
     @tailwind utilities;
    ```
 5.Build Tailwind CSS: You can use the Tailwind CLI to build your CSS file. Run:
-    ```
-    npx tailwindcss -i ./src/styles.css -o ./dist/output.css --watch
-    ```
+   ```
+   npx tailwindcss -i ./src/styles.css -o ./dist/output.css --watch
+   ```
 - **This command tells Tailwind to take your input CSS file, process it, and output a file (e.g., output.css) that includes all the necessary styles.**
 
 ## 📖  Usage
