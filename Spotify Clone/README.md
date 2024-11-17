@@ -8,6 +8,9 @@ A fully functional **Spotify Clone** built with **HTML**, **CSS**, and **JavaScr
 - **Playable Music**: Stream music directly from the app using integrated APIs.
 - **Local Memory**: Store user preferences, playlists, and last played songs.
 - **Modern UI**: Clean, Spotify-inspired design for a user-friendly experience.
+- **🎨 Interactive User Interface:** A Spotify-inspired design.
+- **🎵 Music Playback:** Plays demo songs from the `songs/` directory.
+- **📱 Responsive Design:** Optimized for both desktop and mobile devices
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +30,7 @@ A fully functional **Spotify Clone** built with **HTML**, **CSS**, and **JavaScr
 
 
 ## 📦 Installation Process
-**Follow these steps to set up and run the Spotify Clone on your local machine:**
+**Follow these steps to set up and run the `Spotify Clone` on your local machine:**
 
 - ## **Prerequisites**
 
@@ -57,13 +60,13 @@ A fully functional **Spotify Clone** built with **HTML**, **CSS**, and **JavaScr
 npm install
 ```
 3. **Run the Project**      
-- **Open index.html in your preferred browser:**
+- **Open `index.html` in your preferred browser:**
 ```
 open index.html
 ```  
 **Alternatively, use Live Server:**  
 - **Open the project folder in your code editor.**
-- **Right-click on index.html.**
+- **Right-click on `index.html`.**
 - **Select Open with Live Server.**
 
 ## 📷 Screenshots
