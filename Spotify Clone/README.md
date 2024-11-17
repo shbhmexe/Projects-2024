@@ -32,8 +32,10 @@ A fully functional **Spotify Clone** built with **HTML**, **CSS**, and **JavaScr
    ```bash
    git clone https://github.com/yourusername/spotify-clone.git
    cd spotify-clone
-   
-![image](https://github.com/user-attachments/assets/b107370a-5e0e-4152-a6c6-0e156e3107da)
+   ```
+2. Open the project in VS Code
+   ```
+      
 
 
 ## 📷 Screenshots
