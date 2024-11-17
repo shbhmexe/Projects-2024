@@ -26,17 +26,19 @@ A fully functional **Spotify Clone** built with **HTML**, **CSS**, and **JavaScr
 - **Dynamic Content**: Updates the UI based on user interactions and selected tracks.
 
 
-## 📦 Installation
+## 📦 Installation Process
+**Follow these steps to set up and run the Spotify Clone on your local machine:**
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/spotify-clone.git
-   cd spotify-clone
-   ```
-2. Open the project in VS Code
-   ```
+- **Prerequisites**
+
+1. Make sure you have the following installed:
+
+- **Node.js (optional, if you plan to use any backend dependencies)**
+- **A modern web browser (e.g., Google Chrome, Mozilla Firefox)**
+- **A code editor like VS Code**
+- **Optionally, you can use a local server tool like Live Server for better performance during development.**
       
-
+2. Optionally, you can use a local server tool like Live Server for better performance during development.
 
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/7ff2d35d-3445-43bf-a8be-a8e954e6bd50)
