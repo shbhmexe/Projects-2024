@@ -79,5 +79,8 @@ open index.html
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## 📝 Note
+`Feel free to contribute! Fork the repository, make changes, and submit a pull request.`
+
 ## 👨‍💻 Author
 This project was created by **Shubham Shukla**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
