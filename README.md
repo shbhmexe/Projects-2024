@@ -29,12 +29,15 @@ I’ve also developed several **full-stack projects**, integrating both **front-
   
 ## 🔄 Fork Method
 - **Follow these steps to fork and contribute to this repository:**
-- 
+  
 1. Fork this Repository
+
 `Click the Fork button at the top-right corner of this repository's page on GitHub.`
 
 2. Clone the Forked Repository
+   
 `Copy the forked repository URL and run the following command to clone it to your local machine:`
+
 ```
 git clone https://github.com/shbhmexe/Projects-2024/ 
 ```
