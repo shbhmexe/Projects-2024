@@ -41,6 +41,9 @@ I’ve also developed several **full-stack projects**, integrating both **front-
 ```
 git clone https://github.com/shbhmexe/Projects-2024/ 
 ```
+3. Add the Original Repository as Upstream
+   
+`Set the original repository as the upstream to keep your forked repository in sync:`
 ## 👨‍💻 Author
 This project was created by **Shubham Shukla**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
 
