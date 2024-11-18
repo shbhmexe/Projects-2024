@@ -26,7 +26,9 @@ I’ve also developed several **full-stack projects**, integrating both **front-
 - **MongoDB**
 - **React.js**
 - **Next.js**
-
+  
+## 🔄 Fork Method
+- **Follow these steps to fork and contribute to this repository:**
 ## 👨‍💻 Author
 This project was created by **Shubham Shukla**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
 
