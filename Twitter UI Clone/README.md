@@ -4,10 +4,10 @@ A responsive **Twitter UI Clone** built using **HTML** and **Tailwind CSS**. Thi
 
 ## 📋 Features
 
-- **Responsive Design**: Adapts to all screen sizes from mobile to desktop.
+- `**Responsive Design**`: Adapts to all screen sizes from mobile to desktop.
 - `**Tailwind CSS Utility Classes**`: Achieve pixel-perfect styling using minimal custom CSS.
-- **Replicated Twitter Layout**: Includes the navigation bar, sidebar, tweet feed, and explore panel.
-- **Clean and Organized Code**: Easy to read and extend with reusable components.
+- `**Replicated Twitter Layout**`: Includes the navigation bar, sidebar, tweet feed, and explore panel.
+- `**Clean and Organized Code**`: Easy to read and extend with reusable components.
 
 ## ⚙️ Tech Stack
 
