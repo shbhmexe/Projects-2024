@@ -11,8 +11,8 @@ A responsive **Twitter UI Clone** built using **HTML** and **Tailwind CSS**. Thi
 
 ## ⚙️ Tech Stack
 
-- **HTML**: Provides the basic structure and layout of the Twitter UI.
-- **Tailwind CSS**: Used for rapid UI development, creating a clean, responsive, and minimalist design with its utility-first classes.
+- `**HTML**`: Provides the basic structure and layout of the Twitter UI.
+- `**Tailwind CSS**`: Used for rapid UI development, creating a clean, responsive, and minimalist design with its utility-first classes.
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/3f886891-5dc2-40a2-a23e-55ba180efd0c)
