@@ -1,16 +1,16 @@
 # 📝 TaskFlow - Your Ultimate To-Do App
 
-**TaskFlow** is a responsive, minimalist, and easy-to-use to-do list application designed to help you stay organized and manage your tasks efficiently. Built with **React** and **Tailwind CSS**, this app provides a seamless user experience while showcasing modern frontend development techniques.
+**`TaskFlow`** is a responsive, minimalist, and easy-to-use to-do list application designed to help you stay organized and manage your tasks efficiently. Built with **React** and **`Tailwind CSS`**, this app provides a seamless user experience while showcasing modern frontend development techniques.
 
 ---
 
 ## 🚀 Features
 
-- **Responsive Design:** Optimized for both mobile and desktop screens, with a clean and simple interface.
-- **Task Management:** Add, edit, and delete tasks to keep track of your daily responsibilities.
-- **Local Storage Integration:** Save tasks to local storage, so your data persists even when you refresh the page.
-- **Minimalist UI:** Built with Tailwind CSS, the app provides a sleek and modern look without sacrificing performance.
-- **Fast and Lightweight:** Leverages React's component-based architecture for optimal performance and flexibility.
+- **`Responsive Design`:** Optimized for both mobile and desktop screens, with a clean and simple interface.
+- **`Task Management`:** Add, edit, and delete tasks to keep track of your daily responsibilities.
+- **`Local Storage Integration`:** Save tasks to local storage, so your data persists even when you refresh the page.
+- **`Minimalist UI`:** Built with Tailwind CSS, the app provides a sleek and modern look without sacrificing performance.
+- **`Fast and Lightweight`:** Leverages React's component-based architecture for optimal performance and flexibility.
 
 ---
 
