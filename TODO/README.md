@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-- **React** - For building a dynamic, component-based user interface.
+- **`React`** - For building a dynamic, component-based user interface.
 - **Tailwind CSS** - For styling the application with utility-first CSS framework.
 - **JavaScript (ES6+)** - For implementing the application's functionality.
 - **HTML5** - For structuring the app's content.
