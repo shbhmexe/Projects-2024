@@ -7,7 +7,7 @@ A fully functional **Spotify Clone** built with **HTML**, **CSS**, and **JavaScr
 - **`Responsive Design`**: Adaptable layout for both mobile and desktop.
 - **`Playable Music`**: Stream music directly from the app using integrated APIs.
 - **`Local Memory`**: Store user preferences, playlists, and last played songs.
-- **Modern UI**: Clean, Spotify-inspired design for a user-friendly experience.
+- **`Modern UI`**: Clean, Spotify-inspired design for a user-friendly experience.
 - **🎨 Interactive User Interface:** A Spotify-inspired design.
 - **🎵 Music Playback:** Plays demo songs from the `songs/` directory.
 - **📱 Responsive Design:** Optimized for both desktop and mobile devices
