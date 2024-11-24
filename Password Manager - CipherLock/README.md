@@ -24,8 +24,8 @@ Welcome to **CipherLock**, a simple, secure, and efficient password manager that
 ## 🛠️ Functionality
 
 1. **Add New Password:**
-   - Enter the website URL, username, and password into the input fields.
-   - Click on the "SAVE" button to store the credentials securely.
+   - Enter the website `URL`, username, and password into the input fields.
+   - Click on the "`SAVE`" button to store the credentials securely.
 
 2. **View Saved Passwords:**
    - All saved passwords will be displayed in a list for easy access.
