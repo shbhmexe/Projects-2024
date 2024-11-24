@@ -1,5 +1,5 @@
 ## 🔐 About CipherLock
-CipherLock is a secure, user-friendly password manager designed to help users manage and store their credentials efficiently. The aim of this project is to provide a simple yet powerful tool that encrypts sensitive data, making it easy for users to store and retrieve their passwords for various websites and services.
+`CipherLock` is a secure, user-friendly password manager designed to help users manage and store their credentials efficiently. The aim of this project is to provide a simple yet powerful tool that encrypts sensitive data, making it easy for users to store and retrieve their passwords for various websites and services.
 
 Key Objectives:
 Security: Ensuring password encryption and safe storage using modern technologies.
