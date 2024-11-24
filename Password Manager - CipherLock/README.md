@@ -14,9 +14,9 @@ Welcome to **CipherLock**, a simple, secure, and efficient password manager that
 
 ## 🔧 Tech Stack
 
-- **Frontend:** React.js, Tailwind CSS, HTML
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **`Frontend`:** React.js, Tailwind CSS, HTML
+- **`Backend`:** Node.js, Express.js
+- **`Database`:** MongoDB
 
 ##  🐙💻 Project Link
 - [LINK](https://cipherlock.netlify.app/)
