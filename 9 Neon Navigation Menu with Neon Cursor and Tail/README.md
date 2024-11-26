@@ -1,5 +1,5 @@
 ## 🌟 Neon Navigation Menu with Neon Cursor Tail
-- **A dynamic, vibrant neon-themed navigation menu featuring a glowing cursor with a trailing effect.**
+- **A dynamic, vibrant neon-themed navigation menu featuring a glowing cursor with a `trailing effect`.**
 
 ## 💻 Tech Stack
 - **`HTML`: Provides the structure for the menu.**
