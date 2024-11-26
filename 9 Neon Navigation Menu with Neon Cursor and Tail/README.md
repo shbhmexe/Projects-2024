@@ -3,8 +3,8 @@
 
 ## 💻 Tech Stack
 - **`HTML`: Provides the structure for the menu.**
-- **CSS`: Implements neon effects with box-shadow and keyframes.**
-- **JavaScript: Adds interactivity for the cursor tail effect.**
+- **`CSS`: Implements neon effects with box-shadow and keyframes.**
+- **JavaScript`: Adds interactivity for the cursor tail effect.**
 
 ## ✨ Features
 - **Neon glowing navigation menu.**
