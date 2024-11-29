@@ -6,13 +6,13 @@ A responsive **Twitter UI Clone** built using **HTML** and **Tailwind CSS**. Thi
 
 - **`Responsive Design`**: Adapts to all screen sizes from mobile to desktop.
 - **`Tailwind CSS Utility Classes`**: Achieve pixel-perfect styling using minimal custom CSS.
-- `**Replicated Twitter Layout**`: Includes the navigation bar, sidebar, tweet feed, and explore panel.
-- `**Clean and Organized Code**`: Easy to read and extend with reusable components.
+- **`Replicated Twitter Layout`**: Includes the navigation bar, sidebar, tweet feed, and explore panel.
+- **`Clean and Organized Code`**: Easy to read and extend with reusable components.
 
 ## ⚙️ Tech Stack
 
-- `**HTML**`: Provides the basic structure and layout of the Twitter UI.
-- `**Tailwind CSS**`: Used for rapid UI development, creating a clean, responsive, and minimalist design with its utility-first classes.
+- **`HTML`**: Provides the basic structure and layout of the Twitter UI.
+- **`Tailwind CSS`**: Used for rapid UI development, creating a clean, responsive, and minimalist design with its utility-first classes.
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/3f886891-5dc2-40a2-a23e-55ba180efd0c)
@@ -45,7 +45,7 @@ Responsive design techniques using Tailwind's grid, flexbox, and responsive util
 Best practices for structuring HTML components for reusability.**
 
 ## 💡 Future Improvements
-- **Interactive Features: Adding JavaScript functionality like tweet posting, likes, and more.
+- **`Interactive Features`: Adding JavaScript functionality like tweet posting, likes, and more.
 Dark Mode: Implementing a toggle for switching between light and dark themes.
 User Authentication: Integrating a mock login system.**
 
@@ -53,5 +53,5 @@ User Authentication: Integrating a mock login system.**
 - **This project is licensed under the MIT License - see the LICENSE file for details.**
 
 ## 👨‍💻 Author
-This project was created by **Shubham Shukla**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
+This project was created by **`Shubham Shukla`**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
 
