@@ -1,6 +1,6 @@
 # 🎵 Spotify Clone
 
-A fully functional **Spotify Clone** built with **`HTML`**, **CSS**, and **JavaScript**, featuring API integration and local memory to simulate a personalized music streaming experience. Users can browse music, play tracks, and create a seamless music-playing experience similar to Spotify.
+A fully functional **Spotify Clone** built with **`HTML`**, **`CSS`**, and **JavaScript**, featuring API integration and local memory to simulate a personalized music streaming experience. Users can browse music, play tracks, and create a seamless music-playing experience similar to Spotify.
 
 ## 🚀 Features
 
