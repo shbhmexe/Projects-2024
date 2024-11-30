@@ -14,11 +14,11 @@ A fully functional **Spotify Clone** built with **`HTML`**, **`CSS`**, and ** `J
 
 ## 🛠️ Tech Stack
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **API Integration**
-- **Local Storage**
+- **`HTML`**
+- **`CSS`**
+- **`JavaScript`**
+- **`API Integration`**
+- **`Local Storage`**
 
 ## ❓ How It Works
 
