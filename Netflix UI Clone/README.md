@@ -1,5 +1,5 @@
 ## 🎬 Netflix UI Clone
-This project is a Netflix UI Clone, built with HTML and CSS, mimicking the front-end design of Netflix. The clone is focused on replicating the aesthetics and responsiveness of the original Netflix interface.
+This project is a `Netflix UI Clone`, built with `HTML` and `CSS`, mimicking the front-end design of Netflix. The clone is focused on replicating the aesthetics and responsiveness of the original Netflix interface.
 
 ## 💻 Tech Stack
 - **HTML: Structure of the UI.**
