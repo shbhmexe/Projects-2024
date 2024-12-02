@@ -7,7 +7,7 @@ This project is a `Netflix UI Clone`, built with `HTML` and `CSS`, mimicking the
 
 ## ✨ Features
 Responsive Layout: Adapts to different screen sizes, from mobile to desktop.
-Netflix-like Grid: Movie card carousel for a clean and modern look.
+`Netflix-like Grid`: Movie card carousel for a clean and modern look.
 Hover Effects: Interactive movie card hover effects.
 
 ##  🐙💻 Deployed Project Link
