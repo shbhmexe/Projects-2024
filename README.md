@@ -19,7 +19,7 @@ I’ve also developed several **full-stack projects**, integrating both **front-
 
 ## 💻 Tech Stacks
 - **`HTML`**
-- **CSS / Tailwind CSS**
+- **`CSS / Tailwind CSS`**
 - **JavaScript**
 - **Node.js**
 - **Express**
