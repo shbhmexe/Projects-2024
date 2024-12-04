@@ -20,7 +20,7 @@ I’ve also developed several **full-stack projects**, integrating both **front-
 ## 💻 Tech Stacks
 - **`HTML`**
 - **`CSS / Tailwind CSS`**
-- **JavaScript**
+- **`JavaScript`**
 - **Node.js**
 - **Express**
 - **MongoDB**
