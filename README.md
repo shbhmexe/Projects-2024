@@ -21,11 +21,11 @@ I’ve also developed several **full-stack projects**, integrating both **front-
 - **`HTML`**
 - **`CSS / Tailwind CSS`**
 - **`JavaScript`**
-- **Node.js**
-- **Express**
-- **MongoDB**
-- **React.js**
-- **Next.js**
+- **`Node.js`**
+- **`Express`**
+- **`MongoDB`**
+- **`React.js`**
+- **`Next.js`**
   
 ## 🔄 Fork Method
 - **Follow these steps to fork and contribute to this repository:**
