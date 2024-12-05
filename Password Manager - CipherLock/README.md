@@ -1,6 +1,6 @@
 # CipherLock - Password Manager 🔒
 
-Welcome to **CipherLock**, a simple, secure, and efficient password manager that helps you safeguard your digital world. Developed using **React.js**, **Tailwind CSS**, **MongoDB**, and **HTML** by **Shubham Shukla**, this tool is designed to store and manage your passwords in one secure place.
+Welcome to **CipherLock**, a simple, secure, and efficient password manager that helps you safeguard your digital world. Developed using **React.js**, **Tailwind CSS**, **MongoDB**, and **HTML** by **`Shubham Shukla`**, this tool is designed to store and manage your passwords in one secure place.
 
 ![image](https://github.com/user-attachments/assets/a14a392d-4775-4b6a-922c-bd0fda3820ab)
 
