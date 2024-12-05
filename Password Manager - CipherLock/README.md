@@ -31,7 +31,7 @@ Welcome to **CipherLock**, a simple, secure, and efficient password manager that
    - All saved passwords will be displayed in a list for easy access.
    - Toggle the visibility of each password with the eye icon.
 
-3. **Edit/Delete Passwords (Coming Soon):**
+3. **Edit/Delete Passwords:**
    - Easily edit or remove any stored credentials in future updates.
 
 4. **Secure Storage:**
