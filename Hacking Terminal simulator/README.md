@@ -9,9 +9,9 @@ A fun and interactive **Hacking Terminal Simulator** built using **`HTML`**, **`
 - **`Responsive Design`**: Works on all screen sizes, from desktop to mobile.
 
 ## 🛠️ Tech Stack
-- **HTML**: Provides the structure for the terminal and background.
-- **CSS**: Custom styling for matrix animation and terminal UI.
-- **JavaScript**: Controls the text animations and simulated commands.
+- **`HTML`**: Provides the structure for the terminal and background.
+- **`CSS`**: Custom styling for matrix animation and terminal UI.
+- **`JavaScript`**: Controls the text animations and simulated commands.
 
 ## ⚙️ How It Works
 1. The matrix effect is created using CSS animations.
