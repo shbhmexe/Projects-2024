@@ -5,7 +5,7 @@ A fun and interactive **Hacking Terminal Simulator** built using **HTML**, **CSS
 ## 🔥 Features
 - **`Matrix Background Animation`**: The background has a matrix-like cascading effect, giving the terminal a hacker vibe.
 - **`Terminal-Style Interface`**: Simulated terminal output with fake commands and hacking messages.
-- **Dynamic Text**: Randomized text animations to simulate hacking progress.
+- **`Dynamic Text`**: Randomized text animations to simulate hacking progress.
 - **Responsive Design**: Works on all screen sizes, from desktop to mobile.
 
 ## 🛠️ Tech Stack
