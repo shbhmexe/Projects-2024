@@ -56,7 +56,7 @@ npm install
 npm start
 ~~~
 
-- **Ensure MongoDB is installed and running.**
+- **Ensure `MongoDB` is installed and running.**
 
 - **Configure your database in the .env file:**
 
