@@ -58,7 +58,7 @@ npm start
 
 - **Ensure `MongoDB` is installed and running.**
 
-- **Configure your database in the .env file:**
+- **Configure your `database` in the .env file:**
 
 
 ## 👨‍💻 Contribution Guidelines
