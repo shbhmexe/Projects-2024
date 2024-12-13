@@ -14,7 +14,7 @@ A fun and interactive **Hacking Terminal Simulator** built using **`HTML`**, **`
 - **`JavaScript`**: Controls the text animations and simulated commands.
 
 ## ⚙️ How It Works
-1. The matrix effect is created using CSS animations.
+1. The matrix effect is created using `CSS animations`.
 2. JavaScript randomizes the text and simulates command execution.
 3. Customize the messages to display in the terminal for added realism.
 
