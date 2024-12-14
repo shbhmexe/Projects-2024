@@ -18,9 +18,9 @@
 The `Learning Management System (LMS)` is a web-based application designed to facilitate online learning. It provides users with an interactive platform to access courses, manage assignments, and engage in one-on-one coaching. This project aims to create an efficient learning environment for students and educators.
 
 ##  🌟 Features
-- **User Authentication**: Secure login and registration for users.
-- **Course Management**: Users can browse and enroll in various courses.
-- **Assignments**: Students can submit assignments and track their progress.
+- **`User Authentication`**: Secure login and registration for users.
+- **`Course Management`**: Users can browse and enroll in various courses.
+- **`Assignments`**: Students can submit assignments and track their progress.
 - **Live Classes**: Integration of live classes for real-time interaction.
 - **One-on-One Coaching**: Personalized coaching sessions with mentors.
 - **User Dashboard**: A personalized dashboard to view courses, assignments, and performance metrics.
