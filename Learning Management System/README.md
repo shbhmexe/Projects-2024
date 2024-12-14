@@ -27,10 +27,10 @@ The `Learning Management System (LMS)` is a web-based application designed to fa
 - **`Responsive Design`**: Works seamlessly across devices using Tailwind CSS.
 
 ## 🛠️Tech Stack
-- **HTML**: For structuring the content of the web application.
-- **CSS**: Styling the application for a polished look.
-- **Tailwind CSS**: Utility-first CSS framework for responsive design.
-- **JavaScript**: For interactive functionalities and dynamic content.
+- **`HTM`L**: For structuring the content of the web application.
+- **`CSS`**: Styling the application for a polished look.
+- **`Tailwind CSS`**: Utility-first CSS framework for responsive design.
+- **`JavaScript`**: For interactive functionalities and dynamic content.
 
 ##  🚀  Getting Started
 To get a copy of the project up and running on your local machine, follow these steps:
