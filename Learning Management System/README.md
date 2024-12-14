@@ -15,7 +15,7 @@
 - [License](#license)
 
 ## 🔍 Overview
-The Learning Management System (LMS) is a web-based application designed to facilitate online learning. It provides users with an interactive platform to access courses, manage assignments, and engage in one-on-one coaching. This project aims to create an efficient learning environment for students and educators.
+The `Learning Management System (LMS)` is a web-based application designed to facilitate online learning. It provides users with an interactive platform to access courses, manage assignments, and engage in one-on-one coaching. This project aims to create an efficient learning environment for students and educators.
 
 ##  🌟 Features
 - **User Authentication**: Secure login and registration for users.
