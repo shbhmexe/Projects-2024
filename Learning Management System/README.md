@@ -21,10 +21,10 @@ The `Learning Management System (LMS)` is a web-based application designed to fa
 - **`User Authentication`**: Secure login and registration for users.
 - **`Course Management`**: Users can browse and enroll in various courses.
 - **`Assignments`**: Students can submit assignments and track their progress.
-- **Live Classes**: Integration of live classes for real-time interaction.
-- **One-on-One Coaching**: Personalized coaching sessions with mentors.
-- **User Dashboard**: A personalized dashboard to view courses, assignments, and performance metrics.
-- **Responsive Design**: Works seamlessly across devices using Tailwind CSS.
+- **`Live Classes`**: Integration of live classes for real-time interaction.
+- **`One-on-One Coaching`**: Personalized coaching sessions with mentors.
+- **`User Dashboard`**: A personalized dashboard to view courses, assignments, and performance metrics.
+- **`Responsive Design`**: Works seamlessly across devices using Tailwind CSS.
 
 ## 🛠️Tech Stack
 - **HTML**: For structuring the content of the web application.
