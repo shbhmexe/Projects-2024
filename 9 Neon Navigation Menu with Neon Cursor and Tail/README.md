@@ -23,7 +23,7 @@
 
 
 ## 🛠️ Installation
-- **No special installations required! Just download or `clone the project`.**
+- **No special installations required! `Just download` or `clone the project`.**
 
 ## 🌈 Future Improvements
 - **Adding additional page animations.**
