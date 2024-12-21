@@ -31,7 +31,7 @@ A fun and interactive **Hacking Terminal Simulator** built using **`HTML`**, **`
 3. Enjoy the hacking experience!
 
 ## 👨‍💻 Author
-This project was created by **Shubham Shukla**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
+This project was created by **`Shubham Shukla`**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
 
 ## 📝 License
 This project is open source and available under the [MIT License](LICENSE).
