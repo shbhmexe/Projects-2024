@@ -13,7 +13,7 @@ Here's an enhanced paragraph with the deployment link added seamlessly :
 ## 🔑 Key Project
 One of my key projects is a `Twitter UI` Clone, built using `HTML` and `Tailwind CSS`. This project helped me deepen my understanding of `responsive design` and front-end development principles. You can explore the fully deployed project in inside the every project to see it in action.
 
-I’ve also developed several **`full-stack projects`**, integrating both **front-end** and **back-end** technologies. These hands-on experiences have been crucial in improving my skills in building **clean**, **efficient**, and **user-friendly** web applications.
+I’ve also developed several **`full-stack projects`**, integrating both **`front-end`** and **back-end** technologies. These hands-on experiences have been crucial in improving my skills in building **clean**, **efficient**, and **user-friendly** web applications.
 
 **Feel free to explore my repositories to check out these projects and more !**
 
