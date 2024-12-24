@@ -4,8 +4,8 @@ In **`2024`**, I’ve focused on enhancing my **`Web Development`** skills by wo
 
 - **`UI Clones`**
 - **`Full-Stack Projects`**
-- **Front-End Projects**
-- **Back-End Projects**
+- **`Front-End Projects`**
+- **`Back-End Projects`**
 
 
 Here's an enhanced paragraph with the deployment link added seamlessly :
