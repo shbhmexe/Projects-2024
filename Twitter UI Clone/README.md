@@ -40,7 +40,7 @@ A responsive **`Twitter UI Clone`** built using **`HTML`** and **`Tailwind CSS`*
 ## 📚 Learning Outcomes
 - **`By building this project, you'll learn:`**
 
-**`Tailwind CSS` utility-first approach to rapidly style HTML elements.
+**`Tailwind CSS` utility-first approach to rapidly style `HTML elements`.
 Responsive design techniques using Tailwind's grid, flexbox, and responsive utilities.
 Best practices for structuring HTML components for reusability.**
 
