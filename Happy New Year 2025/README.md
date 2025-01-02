@@ -10,7 +10,7 @@ Welcome to the **Happy New Year 2025** project! 🥳 This repository is a celebr
 
 ## ✨ Features
 
-- **Dynamic Design**: Features a rotating cube showing the transition to 2025.
+- **`Dynamic Design`**: Features a rotating cube showing the transition to 2025.
 - **Festive Vibes**: Includes vibrant fireworks animations and glowing text.
 - **Minimalistic Theme**: A clean and elegant design to kickstart the new year.
 
