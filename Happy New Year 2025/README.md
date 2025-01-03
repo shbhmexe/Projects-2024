@@ -24,7 +24,7 @@ Welcome to the **`Happy New Year 2025`** project! `🥳` This repository is a ce
 
 ## 🛠️ Tech Stack
 
-- HTML: For structure and layout.
+- `HTML`: For structure and layout.
 - CSS: For animations and design.
 - JavaScript: For interactivity and dynamic effects.
 
