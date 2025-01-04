@@ -26,7 +26,7 @@ Welcome to the **`Happy New Year 2025`** project! `🥳` This repository is a ce
 
 - `HTML`: For structure and layout.
 - `CSS`: For animations and design.
-- JavaScript: For interactivity and dynamic effects.
+- `JavaScript`: For interactivity and dynamic effects.
 
 ## 💡Inspiration
 This project is designed to celebrate the arrival of 2025 with a visually captivating animation. Perfect for sharing with friends, family, or adding to your portfolio!
