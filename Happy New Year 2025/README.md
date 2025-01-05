@@ -1,6 +1,6 @@
 # 🎉 Happy New Year 2025 🎆
 
-Welcome to the **`Happy New Year 2025`** project! `🥳` This repository is a celebration of the new year with a sleek, animated, and festive design.
+Welcome to the **`Happy New Year 2025`** project! `🥳` This repository is a celebration of the new year with a `sleek`, animated, and festive design.
 
 ---
 
@@ -30,7 +30,6 @@ Welcome to the **`Happy New Year 2025`** project! `🥳` This repository is a ce
 
 ## 💡Inspiration
 This project is designed to celebrate the arrival of 2025 with a visually captivating animation. Perfect for sharing with friends, family, or adding to your portfolio!
-
 
 
 ## 🌟 Contributing
