@@ -20,7 +20,7 @@ Welcome to the **`Happy New Year 2025`** project! `🥳` This repository is a ce
    ```bash
    git clone https://github.com/shbhmexe/Projects-2024/tree/main/Happy%20New%20Year%202025)
    
-2. Open index.html in your browser to view the animation.
+2. Open `index.html` in your browser to view the animation.
 
 ## 🛠️ Tech Stack
 
