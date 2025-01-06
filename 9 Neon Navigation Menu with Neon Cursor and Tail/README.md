@@ -12,7 +12,7 @@
 - **Fully responsive design.**
 
 ## 📦 How to Run
-- **Clone the repository.**
+- **`Clone` the repository.**
 - **Open the index.html file in your browser.**
 
 ## 📲 Screenshots
