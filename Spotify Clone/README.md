@@ -22,7 +22,7 @@ A fully functional **`Spotify Clone`** built with **`HTML`**, **`CSS`**, and ** 
 
 ## ❓ How It Works
 
-- **Music Playback**: Fetches music data from an external API for streaming.
+- **`Music Playback`**: Fetches music data from an external API for streaming.
 - **Local Storage**: Saves user preferences, playlists, and last played songs for persistence.
 - **User Interface**: Mimics Spotify’s design for intuitive navigation.
 - **Responsive Design**: Adapts layout for both mobile and desktop devices.
