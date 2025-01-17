@@ -50,4 +50,4 @@ This project was created by **`Shubham Shukla`**. Feel free to reach out on [Lin
 ## 📝 License
 This project is open source and available under the [MIT License](LICENSE).
 
-**✨ Stay tuned as I continue to expand my portfolio with more exciting projects! ✨**
+**✨ Stay tuned as I continue to expand my portfolio with more exciting `projects`! ✨**
