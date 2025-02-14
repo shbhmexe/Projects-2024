@@ -1,9 +1,4 @@
-# *
 User-agent: *
 Allow: /
 
-# Host
-Host: https://mduiitmlearn.vercel.app
-
-# Sitemaps
 Sitemap: https://mduiitmlearn.vercel.app/sitemap.xml
