@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     siteName: "MDU IITM Learn",
     images: [
       {
-        url: "/logo/brand.png", // Ensure this image is in `public/images`
+        url: "https://mduiitmlearn.vercel.app/logo/brand.png", // Ensure this image is publicly accessible
         width: 1200,
         height: 630,
         alt: "MDU IITM Study Resources",
@@ -36,10 +36,11 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "MDU IITM Notes & PYQs – Learn Smarter, Not Harder",
     description: "Access MDU IITM notes, PYQs, syllabus, study resources, EDGE sheets, and practical files in one place!",
-    images: ["/images/seo-image.png"],
+    images: ["https://mduiitmlearn.vercel.app/images/seo-image.png"], // Ensure this path is correct
   },
   robots: "index, follow",
 };
+
 
 export default function Home() {
   return (
