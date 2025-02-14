@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ["localhost"],
+    domains: ["localhost", "mduiitmlearn.vercel.app"],
     remotePatterns: [
       {
         protocol: "https",
@@ -11,11 +11,6 @@ const nextConfig = {
     ],
   },
   trailingSlash: true, // Ensures proper sitemap URLs
-  output: "export", // ✅ Enables `next export`
-  // ❌ REMOVE THIS - Static exports do not support rewrites!
-  // async rewrites() {
-  //   return [];
-  // },
 };
 
 module.exports = nextConfig;
