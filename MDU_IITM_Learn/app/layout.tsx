@@ -7,7 +7,8 @@ import { Inter } from "next/font/google";
 import "node_modules/react-modal-video/css/modal-video.css";
 import "../styles/index.css";
 import { Analytics } from "@vercel/analytics/react";
-import { Providers } from "./providers"; // Added Providers import
+import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Providers } from "./providers";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -25,7 +26,8 @@ export default function RootLayout({
           {children}
           <Footer />
           <ScrollToTop />
-          <Analytics /> {/* Ensures analytics is included */}
+          <Analytics />
+          <SpeedInsights />
         </Providers>
       </body>
     </html>
