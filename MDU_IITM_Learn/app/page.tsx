@@ -10,16 +10,17 @@ import Pricing from "@/components/CGPA";
 import Testimonials from "@/components/Testimonials";
 import Video from "@/components/Video";
 import { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/react"
 
 export const metadata: Metadata = {
   title: "MDU IITM Notes & PYQs – Learn Smarter, Not Harder",
   description: "Access MDU IITM notes, PYQs, syllabus, study resources, EDGE sheets, and practical files in one place!",
   keywords: "MDU, IITM, Notes, PYQs, Syllabus, Study Material, EDGE Sheets, Practical Files",
-  authors: [{ name: "Shubham Shukla", url: "https://yourdomain.com" }],
+  authors: [{ name: "Shubham Shukla", url: "https://mduiitmlearn.vercel.app" }],
   openGraph: {
     title: "MDU IITM Notes & PYQs – Learn Smarter, Not Harder",
     description: "Get semester-wise study resources, previous year questions, and notes in one place.",
-    url: "https://yourdomain.com",
+    url: "https://mduiitmlearn.vercel.app",
     siteName: "MDU IITM Learn",
     images: [
       {
