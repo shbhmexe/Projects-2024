@@ -14,7 +14,7 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:description" content="Comprehensive handwritten notes for BTech students." />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/logo.png" />
-        <meta property="og:url" content="http://localhost:3000/" />
+        <meta property="og:url" content="https://mduiitmlearn.vercel.app" />
         <meta name="twitter:description" content="Comprehensive handwritten notes for BTech students." />
         <DefaultSeo {...SEO} />
         <Component {...pageProps} />

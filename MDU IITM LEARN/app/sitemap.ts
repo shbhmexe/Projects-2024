@@ -1,7 +1,7 @@
 import { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "http://localhost:3000"; // Change this to your actual domain when deploying
+  const baseUrl = "https://mduiitmlearn.vercel.app"; // Change this to your actual domain when deploying
 
   return [
     { url: `${baseUrl}/`, lastModified: new Date().toISOString() },
