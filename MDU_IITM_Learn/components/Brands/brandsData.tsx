@@ -26,8 +26,8 @@ const brandsData: Brand[] = [
     id: 4,
     name: "Discord",
     href: "https://discord.gg/BSfNGWHE",
-    image: "/images/brands/discord.svg",
-    imageLight: "/images/brands/discord.svg",
+    image: "/images/brands/discord1.svg",
+    imageLight: "/images/brands/discord1.svg",
   },
   // {
   //   id: 5,

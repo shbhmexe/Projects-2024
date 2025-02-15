@@ -7,7 +7,8 @@ const Brands = () => {
     <section className="">
       <div className="container">
         <div className="mx-4 flex flex-wrap ">
-          <div className="w-full px-4 flex justify-evenly">
+        <div className="w-screen px-0 flex justify-center sm:justify-evenly">
+
             <div
               className="wow fadeInUp bg-gray-light dark:bg-gray-dark flex flex-wrap items-center justify-center 
               px-6 py-6 sm:px-8 sm:py-8 md:px-10 md:py-10 xl:px-12 xl:py-12 rounded-3xl 
