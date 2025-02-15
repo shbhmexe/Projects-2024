@@ -18,14 +18,17 @@ const subjectsBySemester: Record<number, { name: string; link: string }[]> = {
     { name: "Programming in C Lab", link: "https://drive.google.com/your_c_lab_pyq_link" },
     { name: "Language Lab", link: "https://drive.google.com/your_language_lab_pyq_link" },
   ],
-  // Add more semesters and subjects...
 };
 
 export default function PYQSubjectsPage() {
-  const { semester } = useParams();
+  const params = useParams();
+  
+  // ✅ Safely extract semester param
+  const semesterParam = params?.semester;
+  const semester = Array.isArray(semesterParam) ? semesterParam[0] : semesterParam;
   const semesterNum = Number(semester);
 
-  // Handle invalid semester
+  // ✅ Handle invalid semester
   if (isNaN(semesterNum) || !subjectsBySemester[semesterNum]) {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center text-gray-900 dark:text-white">
@@ -83,3 +86,4 @@ export default function PYQSubjectsPage() {
     </motion.div>
   );
 }
+  
