@@ -1,30 +1,16 @@
-import mongoose from "mongoose";
+import { MongoClient } from "mongodb";
 
-const MONGODB_URI = process.env.MONGODB_URI;
+const uri = process.env.MONGODB_URI;
+const options = {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+};
 
-if (!MONGODB_URI) {
-  throw new Error("⚠️ MongoDB URI is missing in .env file");
+if (!process.env.MONGODB_URI) {
+  throw new Error("❌ MongoDB URI is missing in environment variables!");
 }
 
-let cached = global.mongoose || { conn: null, promise: null };
+let client = new MongoClient(uri, options);
+let clientPromise = client.connect();
 
-export async function connectToDatabase() {
-  if (cached.conn) {
-    return cached.conn;
-  }
-
-  if (!cached.promise) {
-    cached.promise = mongoose
-      .connect(MONGODB_URI, {
-        useNewUrlParser: true,
-        useUnifiedTopology: true,
-      })
-      .then((mongoose) => mongoose);
-  }
-
-  cached.conn = await cached.promise;
-  console.log("✅ Connected to MongoDB");
-  return cached.conn;
-}
-
-global.mongoose = cached;
+export { clientPromise };  // ✅ Named export

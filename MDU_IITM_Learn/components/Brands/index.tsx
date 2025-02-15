@@ -1,26 +1,33 @@
+"use client";
 import { Brand } from "@/types/brand";
 import Image from "next/image";
 import brandsData from "./brandsData";
+import { motion } from "framer-motion";
+
+
 
 const Brands = () => {
   return (
     <section className="">
       <div className="container">
         <div className="mx-4 flex flex-wrap ">
-        <div className="w-screen px-0 flex justify-center sm:justify-evenly">
+          <div className="w-screen px-0 flex justify-center sm:justify-evenly">
 
-            <div
-              className="wow fadeInUp bg-gray-light dark:bg-gray-dark flex flex-wrap items-center justify-center 
-              px-6 py-6 sm:px-8 sm:py-8 md:px-10 md:py-10 xl:px-12 xl:py-12 rounded-3xl 
-              mt-[-30px] mb-8"
-              data-wow-delay=".1s"
-            >
-              <div className="flex flex-wrap justify-center gap-2 sm:gap-4 md:gap-6 xl:gap-8 w-full">
-                {brandsData.map((brand) => (
-                  <SingleBrand key={brand.id} brand={brand} />
-                ))}
-              </div>
-            </div>
+          <motion.div
+      className="relative bg-gray-light dark:bg-gray-dark flex flex-wrap items-center justify-center 
+      px-6 py-6 sm:px-8 sm:py-8 md:px-10 md:py-10 xl:px-12 xl:py-12 rounded-3xl 
+      mt-[-30px] mb-8 transition-all duration-10"
+      whileHover={{
+        boxShadow: "0px 0px 20px rgba(0, 128, 255, 0.4)", // Blue glow effect
+        backdropFilter: "blur(30px)", // Light blur effect
+      }}
+    >
+      <div className="flex flex-wrap justify-center gap-2 sm:gap-4 md:gap-6 xl:gap-8 w-full">
+        {brandsData.map((brand) => (
+          <SingleBrand key={brand.id} brand={brand} />
+        ))}
+      </div>
+    </motion.div>
           </div>
         </div>
       </div>

@@ -8,10 +8,10 @@ export default {
     description: "Comprehensive handwritten notes for BTech students.",
     images: [
       {
-        url: "https://mduiitmlearn.vercel.app/logo.png",
+        url: "https://mduiitmlearn.vercel.app/ogimage.png",
         width: 800,
         height: 600,
-        alt: "BTech Notes Logo",
+        alt: "BTech Notes",
       },
     ],
   },

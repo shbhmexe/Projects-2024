@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:title" content="BTech Notes - MDU & IITM" />
         <meta property="og:description" content="Comprehensive handwritten notes for BTech students." />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="/logo.png" />
+        <meta property="og:image" content="/logo/ogimage.png" />
         <meta property="og:url" content="https://mduiitmlearn.vercel.app" />
         <meta name="meta:description" content="Comprehensive handwritten notes for BTech students." />
         <DefaultSeo {...SEO} />
