@@ -25,22 +25,31 @@ const Video = () => {
 
         />
 
-        <div className="-mx-4 flex flex-wrap">
-          <div className="w-full px-4">
-            <div
-              className="wow fadeInUp mx-auto max-w-[770px] overflow-hidden rounded-md"
-              data-wow-delay=".15s"
-            >
-              <div className="relative aspect-[77/40] items-center justify-center">
+        <div className="flex justify-center px-4">
+          <div className="max-w-3xl text-center">
+            {/* Light: Gray-700 | Dark: Gray-300 */}
+            <p className="text-lg sm:text-xl md:text-2xl font-medium text-gray-700 dark:text-gray-300 leading-relaxed">
+              Struggling to find quality study materials for your{" "}
+              <span className="text-blue-400 font-semibold">B.Tech courses</span> ? We’ve got you covered!
+              Our platform offers well-structured{" "}
+              <span className="text-blue-400 font-semibold">handwritten notes</span>,{" "}
+              <span className="text-blue-400 font-semibold">previous year question papers (PYQs)</span>,{" "}
+              <span className="text-blue-400 font-semibold">lab manuals</span>, and{" "}
+              <span className="text-blue-400 font-semibold">EDG sheets</span> all tailored specifically for{" "}
+              <span className="text-blue-400 font-semibold">MDU & IITM students</span>.
+            </p>
 
-                <div className=" flex text-2xl ">
-                  <p className="flex   text-body-color text-justify">Struggling to find quality study materials for your B.Tech courses? We’ve got you covered! Our platform offers well-structured handwritten notes, previous year question papers (PYQs), lab manuals, and EDG sheets—all tailored specifically for MDU & IITM students. Whether your preparing for exams or practicals, our syllabus-aligned resources ensure efficient learning and better grades. Study anytime, anywhere with instant digital access and stay ahead in your academic journey.
-                  </p>
-                </div>
-              </div>
-            </div>
+            {/* Light: Gray-500 | Dark: Gray-400 */}
+            <p className="text-lg sm:text-xl md:text-2xl font-medium text-gray-500 dark:text-gray-400 leading-relaxed mt-4">
+              Whether you’re preparing for exams or practicals, our syllabus-aligned resources ensure{" "}
+              <span className="text-blue-400 font-semibold">efficient learning</span> and{" "}
+              <span className="text-blue-400 font-semibold">better grades</span>. Study anytime, anywhere with{" "}
+              <span className="text-blue-400 font-semibold">instant digital access</span> and stay ahead in your academic journey.
+            </p>
           </div>
         </div>
+
+
       </div>
 
       <ModalVideo

@@ -2,12 +2,15 @@
 import { useState } from "react";
 import Link from "next/link";
 import { motion } from "framer-motion";
+import Breadcrumb from "@/components/Common/Breadcrumb";
 
 export default function AboutPage() {
   const [darkMode, setDarkMode] = useState(false);
 
   return (
-    <div className="bg-gradient-to-br from-gray-50 to-gray-200 dark:from-gray-900 dark:to-black min-h-screen flex justify-center items-center py-12 px-6  mt-14">
+    
+    <div className="bg-gradient-to-br from-gray-50 to-gray-200 dark:from-gray-900 dark:to-black min-h-screen flex justify-center items-center py-12 px-6  mt-24">
+      
       <div className="max-w-4xl bg-white dark:bg-gray-800 shadow-2xl rounded-2xl p-10 border border-gray-300 dark:border-gray-700 transition-all duration-300">
         
         {/* Header */}

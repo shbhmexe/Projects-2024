@@ -9,22 +9,28 @@ const Pricing = () => {
   return (
     <section id="pricing" className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
-        <SectionTitle
-          title="CGPA Calculator"
-          paragraph=""
-          center
-          width="665px"
-        />
-        <h1 className="text-2xl mt-[-50px] ml-10 text-body-color">The CGPA Calculator on MDU IITM Notes for BTech is a user-friendly tool designed to help students easily calculate their cumulative grade point average. By inputting their grades and credits for each subject, students can quickly get an accurate CGPA result. This feature simplifies academic tracking and helps students monitor their performance throughout their BTech journey, ensuring they stay on top of their goals and progress.</h1>
-          <p className="flex justify-self-center text-center  mb-10   text-white-500 px-4 py-2 transition duration-100 ease-in-out  mt-[69px]   ">
-            
-          <UseNowButton />
+        <SectionTitle title="CGPA Calculator" paragraph="" center width="665px" />
+
+        <div className="max-w-3xl mx-auto text-center px-4">
+          <h1 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-semibold text-gray-800 dark:text-white leading-relaxed">
+            The <span className="text-blue-400 font-bold">CGPA Calculator</span> on{" "}
+            <span className="text-blue-400 font-bold">MDU IITM Notes</span> for BTech is a user-friendly tool designed to help students easily calculate their{" "}
+            <span className="text-blue-400 font-bold">cumulative grade point average</span>. By inputting their{" "}
+            <span className="text-blue-400 font-bold">grades and credits</span> for each subject, students can quickly get an accurate CGPA result.
+          </h1>
+
+          <p className="text-gray-700 dark:text-gray-300 text-base sm:text-lg mt-4 leading-relaxed">
+            This feature simplifies academic tracking and helps students monitor their performance throughout their BTech journey, ensuring they stay on top of their goals and progress.
           </p>
 
+          <div className="mt-6 flex justify-center">
+            <UseNowButton />
+          </div>
+        </div>
       </div>
-
-
     </section>
+
+
   );
 };
 

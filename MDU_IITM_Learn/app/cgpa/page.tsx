@@ -1,6 +1,7 @@
 "use client";
 import { useState } from "react";
 import { motion } from "framer-motion";
+import Breadcrumb from "@/components/Common/Breadcrumb";
 
 
 const CgpaCalculator = () => {
@@ -88,6 +89,7 @@ const CgpaCalculator = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8, ease: "easeOut" }}
       >
+      
         📊 CGPA Calculator
       </motion.h1>
 

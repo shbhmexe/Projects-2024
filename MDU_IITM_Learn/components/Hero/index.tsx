@@ -7,7 +7,7 @@ const Hero = () => {
     <>
       <section
         id="home"
-        className="dark:bg-gray-dark relative z-10 overflow-hidden bg-white pb-16 pt-[120px] md:pb-[120px] md:pt-[150px] xl:pb-[160px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px]"
+        className="dark:bg-gray-dark relative z-10  overflow-hidden bg-white pb-16 pt-[120px] md:pb-[120px]  md:pt-[150px] xl:pb-[160px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px] "
       >
         <div className="container">
           <div className="-mx-4 flex flex-wrap">
@@ -23,8 +23,8 @@ const Hero = () => {
                 </h1>
 
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl ">
-                Our platform offers a comprehensive collection of handwritten notes, previous year questions (PYQs), lab manuals, and EDGS sheets tailored for BTech students in  computer-related branches such as <span className="text-blue-600 dark:text-yellow-400 font-bold"> Computer Science (CS), Information Technology (IT), Artificial Intelligence & Machine Learning (AI & ML), Artificial Intelligence & Data Science (AIDS), and more.</span> These resources are meticulously curated to support your academic journey, providing in-depth insights and practical knowledge across various computing disciplines.</p>
-                <div className="flex items-center justify-center space-x-4">
+                  Our platform offers a comprehensive collection of handwritten notes, previous year questions (PYQs), lab manuals, and EDGS sheets tailored for BTech students in  computer-related branches such as <span className="text-blue-600 dark:text-yellow-400 font-bold"> Computer Science (CS), Information Technology (IT), Artificial Intelligence & Machine Learning (AI & ML), Artificial Intelligence & Data Science (AIDS), and more.</span> These resources are meticulously curated to support your academic journey, providing in-depth insights and practical knowledge across various computing disciplines.</p>
+                <div className="flex items-center justify-center space-x-4 flex-wrap md:flex-nowrap">
                   {/* 🔥 Get Notes Button */}
                   <motion.div
                     whileHover={{
@@ -36,7 +36,7 @@ const Hero = () => {
                   >
                     <Link
                       href="/notes"
-                      className="rounded-md bg-blue-600 px-8 py-4 text-base font-semibold text-white overflow-hidden relative block"
+                      className="rounded-md bg-blue-600 px-6 py-3 md:px-8 md:py-4 text-sm md:text-base font-semibold text-white overflow-hidden relative block"
                     >
                       🔥 Get Notes
                       <motion.div
@@ -58,7 +58,7 @@ const Hero = () => {
                   >
                     <Link
                       href="/pyqs"
-                      className="rounded-md bg-gray-700 px-8 py-4 text-base font-semibold text-white overflow-hidden relative block"
+                      className="rounded-md bg-gray-700 px-6 py-3 md:px-8 md:py-4 text-sm md:text-base font-semibold text-white overflow-hidden relative block"
                     >
                       📜 Get PYQs
                       <motion.div
@@ -69,6 +69,7 @@ const Hero = () => {
                     </Link>
                   </motion.div>
                 </div>
+
               </div>
             </div>
           </div>

@@ -5,8 +5,9 @@ import { motion } from "framer-motion";
 export default function PrivacyPolicy() {
   return (
     <>
+    
       <Head>
-        <title>Privacy Policy - Your Website</title>
+        <title>Privacy Policy - https://mduiitmlearn.vercel.app</title>
         <meta name="description" content="Privacy Policy of Your Website" />
       </Head>
 
@@ -14,7 +15,7 @@ export default function PrivacyPolicy() {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, ease: "easeOut" }}
-        className="max-w-4xl mx-auto px-6 py-12 mt-24 bg-white dark:bg-gray-800 shadow-lg rounded-lg border border-gray-300 dark:border-gray-700 transition-all duration-300 "
+        className="max-w-4xl mx-auto px-6 py-12 mt-36 bg-white dark:bg-gray-800 shadow-lg rounded-lg border border-gray-300 dark:border-gray-700 transition-all duration-300 mb-10"
       >
         <motion.h1
           initial={{ opacity: 0, scale: 0.8 }}
@@ -31,7 +32,7 @@ export default function PrivacyPolicy() {
           transition={{ duration: 0.5, ease: "easeOut", delay: 0.1 }}
           className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-6"
         >
-          Welcome to <strong className="text-blue-600 dark:text-blue-400">Your Website</strong>. 
+          Welcome to <strong className="text-blue-600 dark:text-blue-400">https://mduiitmlearn.vercel.app </strong> 
           We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and protect your information.
         </motion.p>
 
@@ -74,8 +75,8 @@ export default function PrivacyPolicy() {
               href="mailto:support@yourwebsite.com"
               className="text-blue-600 dark:text-blue-400 font-semibold hover:underline transition-all duration-200 hover:text-blue-700 dark:hover:text-blue-300"
             >
-              support@yourwebsite.com
-            </a>.
+              support@mduiitmlearn.com
+            </a>
           </p>
         </motion.section>
       </motion.div>

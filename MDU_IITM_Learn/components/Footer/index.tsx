@@ -155,7 +155,7 @@ const Footer = () => {
                   rel="noopener noreferrer"
                  href="https://www.linkedin.com/in/shubham-shukla-62095032a/"
                 >
-                  Shubham Shukla
+                _Shubham Shukla
                 </a>
             </p>
           </div>

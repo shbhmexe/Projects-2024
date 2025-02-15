@@ -12,7 +12,7 @@ import { Metadata } from "next";
 
 const Blog = () => {
   return (
-    <>
+    <div className="mt-10">
       <Breadcrumb
         pageName="Blog Grid"
         description="Unlock the power of structured learning with insightful study techniques, expertly crafted to enhance your academic performance."
@@ -95,7 +95,7 @@ const Blog = () => {
           </div>
         </div>
       </section>
-    </>
+      </div>
   );
 };
 

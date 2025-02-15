@@ -4,19 +4,21 @@ import brandsData from "./brandsData";
 
 const Brands = () => {
   return (
-
     <section className="">
       <div className="container">
-        <div className="-mx-4 flex flex-wrap">
-          <div className="w-full px-4">
+        <div className="mx-4 flex flex-wrap ">
+          <div className="w-full px-4 flex justify-evenly">
             <div
-              className="wow fadeInUp bg-gray-light dark:bg-gray-dark flex flex-wrap items-center justify-center  px-8 py-8 sm:px-10 md:px-[50px] md:py-[40px] xl:p-[50px] 2xl:px-[70px] 2xl:py-[60px] rounded-3xl mt-[-50px] mb-10 "
+              className="wow fadeInUp bg-gray-light dark:bg-gray-dark flex flex-wrap items-center justify-center 
+              px-6 py-6 sm:px-8 sm:py-8 md:px-10 md:py-10 xl:px-12 xl:py-12 rounded-3xl 
+              mt-[-30px] mb-8"
               data-wow-delay=".1s"
             >
-
-              {brandsData.map((brand) => (
-                <SingleBrand key={brand.id} brand={brand} />
-              ))}
+              <div className="flex flex-wrap justify-center gap-2 sm:gap-4 md:gap-6 xl:gap-8 w-full">
+                {brandsData.map((brand) => (
+                  <SingleBrand key={brand.id} brand={brand} />
+                ))}
+              </div>
             </div>
           </div>
         </div>
@@ -31,14 +33,16 @@ const SingleBrand = ({ brand }: { brand: Brand }) => {
   const { href, image, name } = brand;
 
   return (
-    <div className="mx-3 flex w-full max-w-[160px] items-center justify-center py-[15px] sm:mx-4 lg:max-w-[130px] xl:mx-6 xl:max-w-[150px] 2xl:mx-8 2xl:max-w-[160px] drop-shadow-none transition-all duration-100 hover:text-[#37e091] hover:drop-shadow-[0_0_20px_#37e091] ">
+    <div className="flex items-center justify-center py-2 sm:py-3 w-auto">
       <a
         href={href}
         target="_blank"
         rel="nofollow noreferrer"
-        className="relative h-40 w-full opacity-70 grayscale transition hover:opacity-100 hover:grayscale-0 dark:opacity-60 dark:hover:opacity-100 gap-3 "
+        className="relative w-12 h-12 sm:w-16 sm:h-16 md:w-20 md:h-20 
+        lg:w-24 lg:h-24 xl:w-28 xl:h-28 opacity-70 grayscale transition 
+        hover:opacity-100 hover:grayscale-0 dark:opacity-60 dark:hover:opacity-100"
       >
-        <Image src={image} alt={name} fill />
+        <Image src={image} alt={name} fill className="object-contain" />
       </a>
     </div>
   );

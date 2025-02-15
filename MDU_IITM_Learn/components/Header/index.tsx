@@ -50,15 +50,13 @@ const Header = () => {
           <div className="relative -mx-4 flex items-center justify-between">
             <div className="w-60 max-w-full px-4 xl:mr-12">
               <Link
-                href="/"
-                className={`header-logo block w-full ${sticky ? "py-5 lg:py-2" : "py-8"
-                  } `}>
-                <div className="flex items-center justify-end pr-16 lg:pr-3 ">
-                  <span
-                    className="ease-in-up shadow-btn hover:shadow-btn-hover hidden rounded-xl px-8 py-3 text-base font-medium text-white transition duration-500 hover:bg-opacity-90 md:block md:px-9 lg:px-5 xl:px-6"
-                  >
+                href="https://mduiitmlearn.vercel.app"
+                className={`header-logo  w-full ${sticky ? "py-5 lg:py-2" : "py-8"}`}
+              >
+                <div className="flex items-center justify-end  pr-16 lg:pr-3">
+                  <span className="ease-in-up  hover:shadow-btn-hover rounded-xl px-8 py-3 text-base font-medium text-white transition duration-500 hover:bg-opacity-90 flex items-center">
                     <Image
-                      className="rounded-xl w-[200px]"
+                      className="rounded-xl w-[140px] sm:w-[180px] md:w-[200px] lg:w-[200px] h-auto max-w-[200px] object-contain block mb-3 sm:mb-0"
                       src="/images/logo/brand.svg"
                       alt="logo"
                       width={200}
@@ -70,6 +68,7 @@ const Header = () => {
 
               </Link>
             </div>
+
             <div className="flex w-full items-center justify-between px-4">
               <div>
                 <button
