@@ -16,9 +16,12 @@ const subjectsBySemester: Record<number, string[]> = {
 
 export default function SemesterPage() {
   const params = useParams();
-  const semester = params?.semester as string | undefined;
 
-  if (!semester) {
+  // ✅ Proper type assertion for params
+  const semesterParam = params?.semester;
+  
+  // ✅ Handle cases where semester is undefined or an array
+  if (!semesterParam || Array.isArray(semesterParam)) {
     return (
       <div className="min-h-screen flex items-center justify-center text-xl font-bold text-red-500">
         ❌ Error: Semester not found!
@@ -26,7 +29,8 @@ export default function SemesterPage() {
     );
   }
 
-  const semesterNum = Number(semester);
+  // ✅ Convert string to number safely
+  const semesterNum = Number(semesterParam);
   const subjects = subjectsBySemester[semesterNum] || [];
 
   return (
@@ -45,7 +49,7 @@ export default function SemesterPage() {
         className="text-3xl md:text-4xl font-extrabold mb-6 md:mb-10 text-center"
       >
         📚 Select Subject for Semester{" "}
-        <span className="text-blue-500 dark:text-cyan-400">{semester}</span>
+        <span className="text-blue-500 dark:text-cyan-400">{semesterNum}</span>
       </motion.h1>
 
       {/* Grid for Subjects */}
@@ -59,7 +63,7 @@ export default function SemesterPage() {
               transition={{ duration: 0.5, delay: index * 0.1 }}
             >
               <Link
-                href={`/semester/${semester}/subjects/${subject}`}
+                href={`/semester/${semesterNum}/subjects/${subject}`}
                 className="px-4 py-3 sm:px-6 sm:py-4 text-md sm:text-lg font-semibold text-gray-900 dark:text-gray-200 
                 bg-gradient-to-r from-green-400 to-green-500 dark:from-green-600 dark:to-green-700 
                 rounded-lg shadow-md transition-all duration-300 flex items-center justify-center"
