@@ -1,5 +1,6 @@
 import { clientPromise } from "@/app/lib/mongodb";  // ✅ Named import
 import { NextApiRequest, NextApiResponse } from "next";
+import { sendEmail } from "@/app/lib/nodemailer";
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   if (req.method !== "POST") {
@@ -16,7 +17,14 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     }
 
     const result = await db.collection("contacts").insertOne({ name, email, message });
-    return res.status(201).json({ message: "Form submitted successfully", result });
+
+    // Send confirmation email
+    const emailResponse = await sendEmail(email, "Contact Form Submission", "Thank you for reaching out. We will get back to you soon!");
+    if (!emailResponse.success) {
+      console.error("❌ Email Error:", emailResponse.message);
+    }
+
+    return res.status(201).json({ message: "Form submitted successfully", result, emailResponse });
   } catch (error) {
     console.error("❌ Error:", error);
     return res.status(500).json({ message: "Internal Server Error" });

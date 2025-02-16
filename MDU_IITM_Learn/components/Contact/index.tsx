@@ -8,6 +8,7 @@ const Contact = () => {
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
   const [status, setStatus] = useState(""); // For showing success/error messages
+  const [showStatus, setShowStatus] = useState(false); // Step 4: Frontend Success Message
 
   // Function to handle form submission
   const handleSubmit = async (e: React.FormEvent) => {
@@ -16,6 +17,7 @@ const Contact = () => {
     // Check if all fields are filled
     if (!name || !email || !message) {
       setStatus("All fields are required.");
+      setShowStatus(true);
       return;
     }
 
@@ -30,16 +32,19 @@ const Contact = () => {
 
       const data = await response.json();
       if (response.status === 201) {
-        setStatus("Form submitted successfully!");
+        setStatus("Form submitted successfully! We will reach out to you soon.");
+        setShowStatus(true);
         setName("");
         setEmail("");
         setMessage("");
       } else {
         setStatus(data.message || "Something went wrong!");
+        setShowStatus(true);
       }
     } catch (error) {
       console.error("Error:", error);
       setStatus("Internal Server Error.");
+      setShowStatus(true);
     }
   };
 
@@ -120,8 +125,8 @@ const Contact = () => {
               {/* Form ends */}
 
               {/* Status Message */}
-              {status && (
-                <p className="mt-4 text-center font-medium text-2xl text-blue-600">
+              {showStatus && status && (
+                <p className="mt-4 text-center font-semibold text-3xl text-blue-500 drop-shadow-md tracking-wide">
                   {status}
                 </p>
               )}

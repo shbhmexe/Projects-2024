@@ -73,7 +73,7 @@ export default function TermsAndConditions() {
           <h2 className="text-xl font-semibold">8. Contact Us</h2>
           <div className="mb-4">
             If you have any questions, feel free to contact us at{" "}
-            <a href="mailto:support@yourwebsite.com" className="text-blue-500">support@mduiitmlearn.com</a>.
+            <a href="mailto: mduiitmnotes@gmail.com" className="text-blue-500">support@mduiitmlearn.com</a>.
           </div>
         </div>
       </div>
