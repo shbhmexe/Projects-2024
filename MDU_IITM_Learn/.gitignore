@@ -16,9 +16,11 @@ pnpm-debug.log*
 # Testing  
 /coverage  
 
+# Allow sitemap.xml
+!out/sitemap.xml
+
 # Next.js build & export folders  
-/.next/  
-/out/  
+/.next/   
 /.vercel  
 
 # Production build  
