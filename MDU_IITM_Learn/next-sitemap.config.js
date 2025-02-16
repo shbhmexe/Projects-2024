@@ -1,7 +1,7 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
   siteUrl: process.env.NEXT_PUBLIC_SITE_URL || "https://mduitmlearn.vercel.app",
-  generateRobotsTxt: true,
+  generateRobotsTxt: false,
   generateIndexSitemap: false,
   sitemapSize: 5000,
   exclude: ["/admin/*", "/dashboard/*"],
