@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://mduiitmlearn.vercel.app/sitemap.xml
