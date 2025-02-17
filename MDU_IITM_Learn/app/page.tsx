@@ -13,18 +13,26 @@ import { Metadata } from "next";
 import { Analytics } from "@vercel/analytics/react"
 
 export const metadata: Metadata = {
-  title: "MDU IITM Notes & PYQs – Learn Smarter, Not Harder",
-  description: "Access MDU IITM notes, PYQs, syllabus, study resources, EDGE sheets, and practical files in one place!",
-  keywords: "MDU, IITM, Notes, PYQs, Syllabus, Study Material, EDGE Sheets, Practical Files",
-  authors: [{ name: "Shubham Shukla", url: "https://mduiitmlearn.vercel.app" }],
+  title: "MDU, IITM, DITM, MVSIT & AKIDO B.Tech Notes, EDG Sheets & PYQs – Best Study Resources",
+  description:
+    "Access MDU IITM notes, PYQs, syllabus, study resources, EDGE sheets, and practical files in one place!",
+    keywords:
+    "MDU IITM Notes, PYQs, Syllabus, Study Material, EDGE Sheets, Practical Files, MDU Rohtak, BTech Notes, IPU, Semester Notes, Engineering Study Material, Previous Year Questions, IITM Janakpuri, Free Study Resources, MDU Exam Prep DITM, MVSIT, AKIDO",  
+  authors: [
+    {
+      name: "Shubham Shukla",
+      url: "https://mduiitmlearn.vercel.app", // ✅ Ensure HTTPS is included
+    },
+  ],
   openGraph: {
-    title: "MDU IITM Notes & PYQs – Learn Smarter, Not Harder",
-    description: "Get semester-wise study resources, previous year questions, and notes in one place.",
+    title: "MDU, IITM, DITM, MVSIT & AKIDO B.Tech Notes, EDG Sheets & PYQs – Best Study Resources",
+    description:
+      "Get semester-wise study resources, previous year questions, and notes in one place.",
     url: "https://mduiitmlearn.vercel.app",
-    siteName: "MDU IITM Learn",
+    siteName: "MDU ROHTAK IITM JANAKPURI",
     images: [
       {
-        url: "https://mduiitmlearn.vercel.app/logo/brand.png", // Ensure this image is publicly accessible
+        url: "https://mduiitmlearn.vercel.app/logo/brand1.png", // ✅ Full URL required for SEO
         width: 1200,
         height: 630,
         alt: "MDU IITM Study Resources",
@@ -35,11 +43,15 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "MDU IITM Notes & PYQs – Learn Smarter, Not Harder",
-    description: "Access MDU IITM notes, PYQs, syllabus, study resources, EDGE sheets, and practical files in one place!",
-    images: ["https://mduiitmlearn.vercel.app/images/seo-image.png"], // Ensure this path is correct
+    description:
+      "Access MDU IITM notes, PYQs, syllabus, study resources, EDGE sheets, and practical files in one place!",
+    images: [
+      "https://mduiitmlearn.vercel.app/logo/1.png", // ✅ Full URL for Twitter Cards
+    ],
   },
   robots: "index, follow",
 };
+
 
 
 export default function Home() {
