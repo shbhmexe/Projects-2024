@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { motion } from "framer-motion";
 
+
 const Hero = () => {
   return (
     <>
@@ -26,18 +27,19 @@ const Hero = () => {
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl ">
                   Our platform offers a comprehensive collection of handwritten notes, previous year questions (PYQs), lab manuals, and EDGS sheets tailored for BTech students in  computer-related branches such as <span className="text-blue-600 dark:text-yellow-400 font-bold"> Computer Science (CS), Information Technology (IT), Artificial Intelligence & Machine Learning (AI & ML), Artificial Intelligence & Data Science (AIDS), and more.</span> These resources are meticulously curated to support your academic journey, providing in-depth insights and practical knowledge across various computing disciplines.</p>
                 <div className="flex items-center justify-center space-x-4 flex-wrap md:flex-nowrap">
+
                   {/* 🔥 Get Notes Button */}
                   <motion.div
                     whileHover={{
                       scale: 1.1,
-                      boxShadow: "0px 0px 15px rgba(0, 102, 255, 0.6)", // Blue glow
+                      boxShadow: "0px 0px 15px rgba(30, 144, 255, 0.7)", // Soft vibrant blue glow
                     }}
                     whileTap={{ scale: 0.95 }}
                     className="relative"
                   >
                     <Link
                       href="/notes"
-                      className="rounded-md bg-blue-600 px-6 py-3 md:px-8 md:py-4 text-sm md:text-base font-semibold text-white overflow-hidden relative block"
+                      className="rounded-md bg-gradient-to-r from-[#2563EB] to-[#3B82F6] hover:from-[#1E40AF] hover:to-[#2563EB] px-6 py-3 md:px-8 md:py-4 text-sm md:text-base font-semibold text-white overflow-hidden relative block"
                     >
                       🔥 Get Notes
                       <motion.div
@@ -48,18 +50,19 @@ const Hero = () => {
                     </Link>
                   </motion.div>
 
+
                   {/* 📜 Get PYQs Button */}
                   <motion.div
                     whileHover={{
                       scale: 1.1,
-                      boxShadow: "0px 0px 15px rgba(50, 50, 50, 0.8)", // Dark gray glow
+                      boxShadow: "0px 0px 15px rgba(107, 114, 128, 0.6)", // Soft gray glow
                     }}
                     whileTap={{ scale: 0.95 }}
                     className="relative"
                   >
                     <Link
                       href="/pyqs"
-                      className="rounded-md bg-gray-700 px-6 py-3 md:px-8 md:py-4 text-sm md:text-base font-semibold text-white overflow-hidden relative block"
+                      className="rounded-md bg-gradient-to-r from-[#4B5563] to-[#6B7280] hover:from-[#374151] hover:to-[#4B5563] px-6 py-3 md:px-8 md:py-4 text-sm md:text-base font-semibold text-white overflow-hidden relative block"
                     >
                       📜 Get PYQs
                       <motion.div
@@ -69,7 +72,32 @@ const Hero = () => {
                       />
                     </Link>
                   </motion.div>
+
                 </div>
+
+                {/* 📺 Get YouTube Explanation Button */}
+
+                <motion.div
+                  whileHover={{
+                    scale: 1.1,
+                    boxShadow: "0px 0px 15px rgba(139, 92, 246, 0.6)", // Soft purple glow
+                  }}
+                  whileTap={{ scale: 0.95 }}
+                  className="w-fit mx-auto"
+                >
+                  <Link
+                    href="/youtube-explanation/semester"
+                    className="rounded-md bg-gradient-to-r from-[#8B5CF6] to-[#EC4899] hover:from-[#7C3AED] hover:to-[#DB2777] px-8 py-4 text-base font-semibold text-white overflow-hidden relative block mt-3"
+                  >
+                    📺 Get YouTube Explanation
+                    <motion.div
+                      className="absolute inset-0 bg-white opacity-20"
+                      animate={{ x: ["-100%", "100%"] }}
+                      transition={{ duration: 1.5, repeat: Infinity, repeatType: "reverse" }}
+                    />
+                  </Link>
+                </motion.div>
+
 
               </div>
             </div>

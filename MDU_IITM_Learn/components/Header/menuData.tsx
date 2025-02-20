@@ -8,7 +8,7 @@ const menuData: Menu[] = [
     newTab: false,
   },
   {
-    id: 4,
+    id: 2,
     title: "Notes",
     path: "/notes",
     newTab: true,
@@ -20,39 +20,45 @@ const menuData: Menu[] = [
     newTab: true,
   },
   {
-    id: 3,
+    id: 4,
     title: "CGPA Calculator",
     path: "/cgpa",
     newTab: true,
   },
   {
-    id: 4,
+    id: 5,
     title: "PYQ's",
     path: "/pyqs",
     newTab: true,
   },
   {
-    "id": 4,
+    id: 6,
+    title: "Youtube Video's",
+    path: "/youtube-explanation/semester",
+    newTab: false,
+  },
+  {
+    "id": 7,
     "title": "Pages",
     "newTab": false,
     "submenu": [
       {
-        "id": 41,
+        "id": 8,
         "title": "About Page",
         "path": "/Aboutpage",
         "newTab": false
       },
       {
-        "id": 42,
+        "id": 9,
         "title": "Contact Page",
         "path": "/contact",
         "newTab": false
       },
       {
-        "id": 43,
+        "id": 10,
         "title": "Blog",
         "path": "/blog",
-        "newTab": false
+        "newTab": true
       }
     ]
   }  
