@@ -19,12 +19,7 @@ const menuData: Menu[] = [
     path: "/Syllabus",
     newTab: true,
   },
-  {
-    id: 4,
-    title: "CGPA Calculator",
-    path: "/cgpa",
-    newTab: true,
-  },
+  
   {
     id: 5,
     title: "PYQ's",
@@ -36,6 +31,12 @@ const menuData: Menu[] = [
     title: "Youtube Video's",
     path: "/youtube-explanation/semester",
     newTab: false,
+  },
+  {
+    id: 4,
+    title: "CGPA Calculator",
+    path: "/cgpa",
+    newTab: true,
   },
   {
     "id": 7,

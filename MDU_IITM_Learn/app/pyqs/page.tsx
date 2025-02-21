@@ -32,18 +32,27 @@ export default function PYQsPage() {
             animate={{ y: 0, opacity: 1 }}
             transition={{ duration: 0.5, delay: index * 0.1 }}
           >
-            <Link
-              href={`/semester/${sem}/pyqs`}
-              className="px-4 py-3 sm:px-6 sm:py-4 text-md sm:text-lg font-semibold 
-    text-white dark:text-gray-200 bg-blue-500 dark:bg-blue-800 
-    rounded-lg shadow-md transition-all duration-300 
-    flex items-center justify-center hover:bg-blue-600 dark:hover:bg-blue-700"
-            >
-              <motion.span whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>
-                Semester {sem}
-              </motion.span>
-            </Link>
-
+            {sem === "1" ? (
+              <Link
+                href={`/semester/${sem}/pyqs`}
+                className="px-4 py-3 sm:px-6 sm:py-4 text-md sm:text-lg font-semibold 
+                text-white dark:text-gray-200 bg-blue-500 dark:bg-blue-800 
+                rounded-lg shadow-md transition-all duration-300 
+                flex items-center justify-center hover:bg-blue-600 dark:hover:bg-blue-700"
+              >
+                <motion.span whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>
+                  Semester {sem}
+                </motion.span>
+              </Link>
+            ) : (
+              <div
+                className="px-4 py-3 sm:px-6 sm:py-4 text-md sm:text-lg font-semibold 
+                text-gray-400 bg-gray-300 dark:bg-gray-800 cursor-not-allowed
+                rounded-lg shadow-md flex items-center justify-center"
+              >
+                🚫 Not Available
+              </div>
+            )}
           </motion.div>
         ))}
       </div>
