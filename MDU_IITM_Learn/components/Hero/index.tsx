@@ -87,15 +87,27 @@ const Hero = () => {
                 >
                   <Link
                     href="/youtube-explanation/semester"
-                    className="rounded-md bg-gradient-to-r from-[#8B5CF6] to-[#EC4899] hover:from-[#7C3AED] hover:to-[#DB2777] px-8 py-4 text-base font-semibold text-white overflow-hidden relative block mt-3"
+                    className="rounded-md bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 px-8 py-4 text-base font-semibold text-white overflow-hidden relative  mt-5 flex items-center justify-center mb-[-10px]"
                   >
-                    📺 Get YouTube Explanation
+                    {/* Image Wrapper */}
+                    <div className="w-10 h-10 mr-2">
+                      <img
+                        src="https://static-00.iconduck.com/assets.00/youtube-icon-512x364-iqs00mng.png"
+                        alt="youtube"
+                        className="w-full h-full object-contain"
+                      />
+                    </div>
+
+                    Get YouTube Explanation
+
+                    {/* Animated Shine Effect */}
                     <motion.div
                       className="absolute inset-0 bg-white opacity-20"
                       animate={{ x: ["-100%", "100%"] }}
                       transition={{ duration: 1.5, repeat: Infinity, repeatType: "reverse" }}
                     />
                   </Link>
+
                 </motion.div>
 
 
