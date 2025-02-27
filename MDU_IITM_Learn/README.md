@@ -1,32 +1,71 @@
-# MDU IITM Learn - Free Next.js Website Template
+# MDU IIITM Learning Platform
 
-🚀 MDU IITM Learn is a free, open-source, and premium-quality website template for Next.js. It comes with everything you need to build an educational platform, including all essential sections, components, and pages.
+![MDU IIITM Logo]()
 
-If you're looking for a high-quality, visually appealing, and feature-rich Next.js template for your educational platform, this is the perfect choice and starting point for you!
+A comprehensive educational platform built for B.Tech students of Maharaja Surajmal Dutt Institute of Information Technology and Management (MDU IIITM), Janakpuri. This platform provides study materials, resources, and tools to enhance the learning experience for students.
 
-### ✨ Key Features
-- Crafted for Education and Learning Platforms
-- Next.js 13 and Tailwind CSS
-- All Essential Sections and Pages
-- High-quality and Clean Design
-- Dark and Light Mode Support
-- TypeScript Support
-- And Much More...
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Project Structure](#project-structure)
+- [Usage](#usage)
+- [API Endpoints](#api-endpoints)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-### [🔥 Live Website](https://mduiitmlearn.vercel.app/)
+## Overview
 
-### [📦 Download](https://github.com/your-repo/mdu-iitm-learn)
+The MDU IIITM Learning Platform is designed to serve as a centralized hub for all educational resources needed by B.Tech students at MDU IIITM Janakpuri. It provides easy access to study materials, lecture notes, previous year question papers, syllabus information, and much more.
 
-### [🔌 Documentation](https://your-documentation-link.com)
+## Features
 
-### ⚡ Deploy Now
+- **Study Materials Repository**: Access to comprehensive study materials organized by semester and subject
+- **Course Syllabus**: Detailed syllabus information for all B.Tech courses
+- **Previous Year Papers**: Collection of past examination papers for practice
+- **Interactive UI**: User-friendly interface for seamless navigation
+- **Responsive Design**: Optimized for both desktop and mobile viewing
+- **Search Functionality**: Quick search for specific topics or materials
+- **Authentication**: Secure login system for students and faculty
+- **Resource Downloads**: Easy download of study materials in various formats
+- **Announcements**: Important notifications and updates for students
+- **Dark/Light Mode**: Theme toggle for better reading experience
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-repo/mdu-iitm-learn)
+## Tech Stack
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/your-repo/mdu-iitm-learn)
+This project is built using the following technologies:
 
-### 📄 License
-MDU IITM Learn is 100% free and open-source, feel free to use it for your personal and commercial projects.
+- **Frontend**:
+  - [Next.js 14](https://nextjs.org/) - React framework with server-side rendering
+  - [TypeScript](https://www.typescriptlang.org/) - Static type checking
+  - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+  - [React Context API](https://reactjs.org/docs/context.html) - State management
 
-### 💜 Support
-If you like this template, please star this repository to inspire the team to create more amazing resources like this!
+- **Backend**:
+  - [Next.js API Routes](https://nextjs.org/docs/api-routes/introduction) - Serverless API endpoints
+  - [MongoDB](https://www.mongodb.com/) - NoSQL database (assumed)
+
+- **Authentication**:
+  - [NextAuth.js](https://next-auth.js.org/) - Authentication for Next.js
+
+- **Deployment**:
+  - [Vercel](https://vercel.com/) - Hosting platform optimized for Next.js
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18.0.0 or later)
+- npm or yarn package manager
+- MongoDB connection (if using a database)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/mdu-iiitm-learn.git
+   cd mdu-iiitm-learn
