@@ -69,3 +69,140 @@ This project is built using the following technologies:
    ```bash
    git clone https://github.com/your-username/mdu-iiitm-learn.git
    cd mdu-iiitm-learn
+  ```
+2. Install dependencies:
+    ```bash
+    npm install
+# or
+    yarn install
+    ```    
+3. Set up environment variables:
+Create a `.env.local` file in the root directory with the following variables:
+    ```bash
+    MONGODB_URI=your_mongodb_connection_string
+    NEXTAUTH_URL=http://localhost:3000
+    NEXTAUTH_SECRET=your_nextauth_secret
+    ```
+   # Add other environment variables as needed
+
+
+4. Run the development server:   
+    ```
+    npm run dev
+# or
+    yarn dev
+    ```
+
+5. Open the application:
+Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+
+## Project Structure
+
+```bash
+mdu-iiitm-learn/
+├── app/                     # Next.js App Router structure
+│   ├── api/                 # API routes
+│   ├── (auth)/              # Authentication related pages
+│   ├── courses/             # Course-related pages
+│   ├── materials/           # Study materials pages
+│   ├── layout.tsx           # Root layout component
+│   ├── page.tsx             # Home page
+│
+├── components/              # Reusable React components
+│   ├── ui/                  # UI components (buttons, cards, etc.)
+│   ├── layout/              # Layout components
+│   ├── forms/               # Form components
+│
+├── lib/                     # Utility functions and helpers
+├── models/                  # Database models
+├── public/                  # Static assets
+├── styles/                  # Global styles
+├── types/                   # TypeScript type definitions
+│
+├── next.config.js           # Next.js configuration
+├── tailwind.config.js       # Tailwind CSS configuration
+├── tsconfig.json            # TypeScript configuration
+├── package.json             # Project dependencies
+```
+
+---
+
+## Usage
+
+### Students
+
+1. Visit the platform at [https://mduiitmlearn.vercel.app/](https://mduiitmlearn.vercel.app/)
+2. Create an account or log in with your student credentials
+3. Navigate through the different sections to access study materials
+4. Download resources for offline study
+5. Check announcements for important updates
+
+### Administrators
+
+1. Log in with administrator credentials
+2. Access the admin dashboard
+3. Upload new study materials and resources
+4. Manage user accounts and permissions
+5. Post announcements and updates
+
+---
+
+## API Endpoints
+
+The application provides several API endpoints:
+
+```bash
+GET    /api/materials         # Fetch all study materials
+GET    /api/materials/[id]    # Fetch a specific study material
+POST   /api/materials         # Add a new study material (admin only)
+PUT    /api/materials/[id]    # Update a study material (admin only)
+DELETE /api/materials/[id]    # Delete a study material (admin only)
+GET    /api/courses           # Fetch all courses
+GET    /api/users/me          # Fetch current user information
+```
+
+---
+
+## Next.js and TypeScript Implementation
+
+### App Router
+
+This project utilizes Next.js 14's App Router, which provides:
+
+- **Server Components**: Most components are server components for improved performance
+- **Route Groups**: Organized routes with logical grouping
+- **Layouts**: Shared layouts across multiple pages
+- **Loading States**: Built-in loading states for better UX
+
+## Contributing
+
+We welcome contributions to the MDU IIITM Learning Platform! Please follow these steps:
+
+1. Fork the repository
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature/amazing-feature
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m 'Add amazing feature'
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/amazing-feature
+   ```
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+For any queries or suggestions, please reach out to:
+- **Email**: [mduiitmnotes@gmail.com](mailto:mduiitmnotes@gmail.com)
+- **Website**: [https://mduiitmlearn.vercel.app/](https://mduiitmlearn.vercel.app/)
+
+## Author
+👨‍💻 **Shubham Shukla**
+This project was created by **Shubham Shukla**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/shubham-shukla-62095032a/).
