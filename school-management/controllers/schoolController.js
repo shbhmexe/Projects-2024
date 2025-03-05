@@ -4,7 +4,7 @@ const geoUtils = require('../utils/geoUtils');
 exports.addSchool = async (req, res) => {
     const { name, address, latitude, longitude } = req.body;
 
-    // Validate request body
+    
     if (!name || !address || latitude === undefined || longitude === undefined) {
         return res.status(400).json({ error: 'All fields (name, address, latitude, longitude) are required' });
     }
@@ -14,7 +14,7 @@ exports.addSchool = async (req, res) => {
     }
 
     try {
-        // Check if school already exists
+        
         const existingSchool = await School.findByNameAndAddress(name, address);
         if (existingSchool) {
             return res.status(409).json({ error: 'School with this name and address already exists' });
@@ -31,7 +31,7 @@ exports.addSchool = async (req, res) => {
 };
 
 exports.addMultipleSchools = async (req, res) => {
-    const schools = req.body.schools; // Expecting an array of school objects
+    const schools = req.body.schools; 
 
     if (!Array.isArray(schools) || schools.length === 0) {
         return res.status(400).json({ error: 'Invalid input. Provide an array of schools.' });
@@ -49,7 +49,7 @@ exports.addMultipleSchools = async (req, res) => {
         }
 
         try {
-            // Check for duplicates
+            
             const existingSchool = await School.findByNameAndAddress(name, address);
             if (existingSchool) {
                 failedEntries.push({ school, error: 'Duplicate school' });
@@ -74,7 +74,7 @@ exports.addMultipleSchools = async (req, res) => {
 exports.listSchools = async (req, res) => {
     const { lat, lng } = req.query;
 
-    // Validate query parameters
+    
     if (!lat || !lng) {
         return res.status(400).json({ error: 'Latitude and longitude are required' });
     }
@@ -90,7 +90,7 @@ exports.listSchools = async (req, res) => {
             return res.status(404).json({ message: 'No schools found' });
         }
 
-        // Sort schools by distance from the given location
+        
         const sortedSchools = geoUtils.sortByDistance(schools, parseFloat(lat), parseFloat(lng));
         res.status(200).json(sortedSchools);
         

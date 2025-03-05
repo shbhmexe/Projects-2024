@@ -5,7 +5,7 @@ const validateSchool = (req, res, next) => {
       return res.status(400).json({ error: 'Invalid or missing fields' });
     }
   
-    next(); // Move to the controller if validation passes
+    next();
   };
   
   module.exports = validateSchool;
