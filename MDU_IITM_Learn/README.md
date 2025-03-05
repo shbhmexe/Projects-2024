@@ -1,6 +1,7 @@
 # MDU IIITM Learning Platform
 
-![MDU IIITM Logo]()
+![image](https://github.com/user-attachments/assets/f6d20843-d09a-44f3-87fd-7ce01d667d03)
+
 
 A comprehensive educational platform built for B.Tech students of Maharaja Surajmal Dutt Institute of Information Technology and Management (MDU IIITM), Janakpuri. This platform provides study materials, resources, and tools to enhance the learning experience for students.
 
@@ -69,7 +70,7 @@ This project is built using the following technologies:
    ```bash
    git clone https://github.com/your-username/mdu-iiitm-learn.git
    cd mdu-iiitm-learn
-  ```
+    ```
 2. Install dependencies:
     ```bash
     npm install
